@@ -1,0 +1,103 @@
+{
+ "catalog": "133",
+ "page": 22,
+ "file": "133_22.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "background",
+   "layer": "Layer 12",
+   "kind": "pixel",
+   "orig_size": [
+    2906,
+    3969
+   ],
+   "bbox": [
+    0,
+    0,
+    2906,
+    3969
+   ],
+   "image": "images/133/p22_background.jpg",
+   "out_size": [
+    1464,
+    2000
+   ]
+  },
+  {
+   "group": "OVAL",
+   "layer": "Layer 15",
+   "kind": "smartobject",
+   "orig_size": [
+    1142,
+    2643
+   ],
+   "bbox": [
+    891,
+    1822,
+    2033,
+    4465
+   ],
+   "image": "images/133/p22_OVAL.jpg",
+   "out_size": [
+    864,
+    2000
+   ]
+  },
+  {
+   "group": "864-L",
+   "layer": "Layer 13",
+   "kind": "smartobject",
+   "orig_size": [
+    1246,
+    3780
+   ],
+   "bbox": [
+    119,
+    115,
+    1365,
+    3895
+   ],
+   "image": "images/133/p22_864-L.jpg",
+   "out_size": [
+    659,
+    2000
+   ]
+  },
+  {
+   "group": "864-R",
+   "layer": "Layer 14",
+   "kind": "smartobject",
+   "orig_size": [
+    1075,
+    3823
+   ],
+   "bbox": [
+    1643,
+    72,
+    2745,
+    3925
+   ],
+   "image": "images/133/p22_864-R.jpg",
+   "out_size": [
+    562,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "864  SIZE: S-4X COLOR: LAVENDER (H130) YELLOW (H809) BLACK  WHI",
+   "text": "864\r\rSIZE: S-4X\rCOLOR:\rLAVENDER (H130)\rYELLOW (H809)\rBLACK \rWHITE (H747)\r\r>3PC\rFINE KNIT\rSKIRT SUIT\rW/ FLATTERING\rSLEEVES AND SKIRT ",
+   "bbox": [
+    1195,
+    96,
+    1787,
+    880
+   ]
+  }
+ ]
+}

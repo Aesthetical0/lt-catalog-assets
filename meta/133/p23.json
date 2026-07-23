@@ -1,0 +1,103 @@
+{
+ "catalog": "133",
+ "page": 23,
+ "file": "133_23.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "background",
+   "layer": "图层 5 副本",
+   "kind": "pixel",
+   "orig_size": [
+    3775,
+    4023
+   ],
+   "bbox": [
+    0,
+    0,
+    3775,
+    4023
+   ],
+   "image": "images/133/p23_background.jpg",
+   "out_size": [
+    1877,
+    2000
+   ]
+  },
+  {
+   "group": "OVAL",
+   "layer": "Layer 23",
+   "kind": "smartobject",
+   "orig_size": [
+    1174,
+    2988
+   ],
+   "bbox": [
+    993,
+    1757,
+    2167,
+    4745
+   ],
+   "image": "images/133/p23_OVAL.jpg",
+   "out_size": [
+    786,
+    2000
+   ]
+  },
+  {
+   "group": "901-L",
+   "layer": "Layer 22",
+   "kind": "smartobject",
+   "orig_size": [
+    968,
+    3839
+   ],
+   "bbox": [
+    1580,
+    57,
+    2603,
+    3896
+   ],
+   "image": "images/133/p23_901-L.jpg",
+   "out_size": [
+    504,
+    2000
+   ]
+  },
+  {
+   "group": "901-R",
+   "layer": "Layer 21",
+   "kind": "smartobject",
+   "orig_size": [
+    1008,
+    3822
+   ],
+   "bbox": [
+    378,
+    74,
+    1391,
+    3914
+   ],
+   "image": "images/133/p23_901-R.jpg",
+   "out_size": [
+    527,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "901  SIZE: S-3X COLOR: SILVER (H165) BLACK (H920) GOLD (H152)  ",
+   "text": "901\r\rSIZE: S-3X\rCOLOR:\rSILVER (H165)\rBLACK (H920)\rGOLD (H152) \r\r>COUTURE\rCOLLECTION\r3PC FINE\rLIGHT CROCHET\rSKIRT SUIT \r",
+   "bbox": [
+    150,
+    2920,
+    623,
+    3648
+   ]
+  }
+ ]
+}

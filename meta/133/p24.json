@@ -1,0 +1,103 @@
+{
+ "catalog": "133",
+ "page": 24,
+ "file": "133_24.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "background",
+   "layer": "图层 6",
+   "kind": "pixel",
+   "orig_size": [
+    2906,
+    3969
+   ],
+   "bbox": [
+    0,
+    0,
+    2906,
+    3969
+   ],
+   "image": "images/133/p24_background.jpg",
+   "out_size": [
+    1464,
+    2000
+   ]
+  },
+  {
+   "group": "OVAL",
+   "layer": "Layer 18",
+   "kind": "smartobject",
+   "orig_size": [
+    1279,
+    3083
+   ],
+   "bbox": [
+    848,
+    1781,
+    2127,
+    4864
+   ],
+   "image": "images/133/p24_OVAL.jpg",
+   "out_size": [
+    830,
+    2000
+   ]
+  },
+  {
+   "group": "866-L",
+   "layer": "Layer 16",
+   "kind": "smartobject",
+   "orig_size": [
+    1069,
+    3822
+   ],
+   "bbox": [
+    204,
+    72,
+    1289,
+    3894
+   ],
+   "image": "images/133/p24_866-L.jpg",
+   "out_size": [
+    559,
+    2000
+   ]
+  },
+  {
+   "group": "866-R",
+   "layer": "Layer 17",
+   "kind": "smartobject",
+   "orig_size": [
+    1109,
+    3820
+   ],
+   "bbox": [
+    1642,
+    73,
+    2751,
+    3899
+   ],
+   "image": "images/133/p24_866-R.jpg",
+   "out_size": [
+    581,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "866  COLOR: BURNT ORANGE (L-4X) SKY BLUE (H938) (B133) (S-2X)  ",
+   "text": "866\r\rCOLOR:\rBURNT ORANGE (L-4X)\rSKY BLUE (H938) (B133) (S-2X) \rMAUVE (H938) (S-2X)\rIVORY (S-3X)\rGOLD (H938) (S-2X)\r\r>3PC FINE KNIT\rSKIRT SUIT W/ LACE\rTRIMMING JACKET\r& W/ SCATTERED\rPEARLS ON\rJACKET AND SKIRT ",
+   "bbox": [
+    155,
+    2846,
+    1009,
+    3686
+   ]
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "catalog": "133",
+ "page": 21,
+ "file": "133_21.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "OVAL",
+   "layer": "Layer 21",
+   "kind": "smartobject",
+   "orig_size": [
+    1076,
+    2819
+   ],
+   "bbox": [
+    880,
+    1819,
+    1956,
+    4638
+   ],
+   "image": "images/133/p21_OVAL.jpg",
+   "out_size": [
+    763,
+    2000
+   ]
+  },
+  {
+   "group": "916",
+   "layer": "Layer 18",
+   "kind": "smartobject",
+   "orig_size": [
+    995,
+    3817
+   ],
+   "bbox": [
+    138,
+    73,
+    1330,
+    3890
+   ],
+   "image": "images/133/p21_916.jpg",
+   "out_size": [
+    521,
+    2000
+   ]
+  },
+  {
+   "group": "5184",
+   "layer": "Layer 19",
+   "kind": "smartobject",
+   "orig_size": [
+    1095,
+    3825
+   ],
+   "bbox": [
+    1516,
+    72,
+    2675,
+    3921
+   ],
+   "image": "images/133/p21_5184.jpg",
+   "out_size": [
+    573,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "916  SIZE: S-3X COLOR: APPLE GREEN  PURPLE (H178)  BLACK   >3PC",
+   "text": "916\r\rSIZE: S-3X\rCOLOR:\rAPPLE GREEN \rPURPLE (H178) \rBLACK \r\r>3PC FINE\rCROCHET KNIT\rSKIRT SUIT\rW/ SCATTERED\rRHINESTONES ",
+   "bbox": [
+    207,
+    2927,
+    645,
+    3655
+   ]
+  },
+  {
+   "layer": "5184  SIZE: 4-24 COLOR: MAUVE/MULTI (H132) GOLD/MULTI (H113) BL",
+   "text": "5184\r\rSIZE: 4-24\rCOLOR:\rMAUVE/MULTI (H132)\rGOLD/MULTI (H113)\rBLUE/MULTI \r\r>LIGHT\rJACQUARD DRESS\rW/ DRAMATIC\rFRONT BOW\rW/ RHINESTONE\rBROOCH  ",
+   "bbox": [
+    2180,
+    2928,
+    2771,
+    3712
+   ]
+  }
+ ]
+}
