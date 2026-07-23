@@ -1,0 +1,93 @@
+{
+ "catalog": "133",
+ "page": 11,
+ "file": "133_11.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "OVAL",
+   "layer": "Layer 11",
+   "kind": "smartobject",
+   "orig_size": [
+    1290,
+    3244
+   ],
+   "bbox": [
+    800,
+    1754,
+    2090,
+    4998
+   ],
+   "image": "images/133/p11_OVAL.jpg",
+   "out_size": [
+    795,
+    2000
+   ]
+  },
+  {
+   "group": "5109",
+   "layer": "Layer 9",
+   "kind": "smartobject",
+   "orig_size": [
+    1236,
+    3825
+   ],
+   "bbox": [
+    95,
+    73,
+    1331,
+    3933
+   ],
+   "image": "images/133/p11_5109.jpg",
+   "out_size": [
+    646,
+    2000
+   ]
+  },
+  {
+   "group": "5183",
+   "layer": "Layer 10",
+   "kind": "smartobject",
+   "orig_size": [
+    939,
+    3825
+   ],
+   "bbox": [
+    1445,
+    73,
+    2956,
+    4268
+   ],
+   "image": "images/133/p11_5183.jpg",
+   "out_size": [
+    491,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5183  SIZE: 4-16 COLOR: MINT/MULTI (H132)  >FINE COUTURE LACE -",
+   "text": "5183\r\rSIZE: 4-16\rCOLOR:\rMINT/MULTI (H132)\r\r>FINE COUTURE\rLACE - DRESS\rW/ RHINESTONE\rBROOCH ",
+   "bbox": [
+    151,
+    2946,
+    677,
+    3505
+   ]
+  },
+  {
+   "layer": "5109  SIZE: 4-24 COLOR: ICE GREEN (H121) ICE BLUE (H159) (B135)",
+   "text": "5109\r\rSIZE: 4-24\rCOLOR:\rICE GREEN (H121)\rICE BLUE (H159) (B135)\rPINK\r\r>2PC FINE\rLIGHT TWEED\rW/ FLARE\rSKIRT SUIT\rW/ RHINESTONE\rBUTTONS \r\r",
+   "bbox": [
+    2103,
+    2946,
+    2752,
+    3730
+   ]
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "catalog": "133",
+ "page": 10,
+ "file": "133_10.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "background",
+   "layer": "图层 3",
+   "kind": "pixel",
+   "orig_size": [
+    2906,
+    4107
+   ],
+   "bbox": [
+    0,
+    -72,
+    2906,
+    4035
+   ],
+   "image": "images/133/p10_background.jpg",
+   "out_size": [
+    1415,
+    2000
+   ]
+  },
+  {
+   "group": "OVAL",
+   "layer": "Layer 18",
+   "kind": "smartobject",
+   "orig_size": [
+    1170,
+    3316
+   ],
+   "bbox": [
+    895,
+    1753,
+    2065,
+    5069
+   ],
+   "image": "images/133/p10_OVAL.jpg",
+   "out_size": [
+    706,
+    2000
+   ]
+  },
+  {
+   "group": "5112",
+   "layer": "Layer 17",
+   "kind": "smartobject",
+   "orig_size": [
+    1170,
+    3822
+   ],
+   "bbox": [
+    1554,
+    72,
+    2855,
+    3932
+   ],
+   "image": "images/133/p10_5112.jpg",
+   "out_size": [
+    612,
+    2000
+   ]
+  },
+  {
+   "group": "5134",
+   "layer": "Layer 16",
+   "kind": "smartobject",
+   "orig_size": [
+    1174,
+    3824
+   ],
+   "bbox": [
+    180,
+    72,
+    1354,
+    3896
+   ],
+   "image": "images/133/p10_5134.jpg",
+   "out_size": [
+    614,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5134  SIZE: S-4X COLOR: GOLD/MULTI (H162) PINK/MULTI (H162) (B1",
+   "text": "5134\r\rSIZE: S-4X\rCOLOR:\rGOLD/MULTI (H162)\rPINK/MULTI (H162) (B135)\r\r>3PC\rFINE TWEED\rSKIRT SUIT\rW/ RHINESTONE\rCLOSURE\r& BROOCH",
+   "bbox": [
+    161,
+    2885,
+    872,
+    3613
+   ]
+  },
+  {
+   "layer": "5112  SIZE: 4-24 COLOR: GOLD/MULTI (H156) NAVY/MULTI  >FINE LIG",
+   "text": "5112\r\rSIZE: 4-24\rCOLOR:\rGOLD/MULTI (H156)\rNAVY/MULTI\r\r>FINE LIGHT\rJACQUARD DRESS\rW/ ZIPPER FRON\rW /REMOVEABLE\rBELT ",
+   "bbox": [
+    1908,
+    3142,
+    2457,
+    3813
+   ]
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "catalog": "133",
+ "page": 12,
+ "file": "133_12.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "background",
+   "layer": "图层 5",
+   "kind": "pixel",
+   "orig_size": [
+    5979,
+    4095
+   ],
+   "bbox": [
+    -1917,
+    -61,
+    4062,
+    4034
+   ],
+   "image": "images/133/p12_background.jpg",
+   "out_size": [
+    2000,
+    1370
+   ]
+  },
+  {
+   "group": "OVAL",
+   "layer": "Layer 24",
+   "kind": "smartobject",
+   "orig_size": [
+    1318,
+    3160
+   ],
+   "bbox": [
+    815,
+    1784,
+    2133,
+    4944
+   ],
+   "image": "images/133/p12_OVAL.jpg",
+   "out_size": [
+    834,
+    2000
+   ]
+  },
+  {
+   "group": "5160-L",
+   "layer": "Layer 22",
+   "kind": "smartobject",
+   "orig_size": [
+    1166,
+    3822
+   ],
+   "bbox": [
+    188,
+    72,
+    1397,
+    4304
+   ],
+   "image": "images/133/p12_5160-L.jpg",
+   "out_size": [
+    610,
+    2000
+   ]
+  },
+  {
+   "group": "5160-R",
+   "layer": "Layer 23",
+   "kind": "smartobject",
+   "orig_size": [
+    1104,
+    3819
+   ],
+   "bbox": [
+    1607,
+    72,
+    2940,
+    4238
+   ],
+   "image": "images/133/p12_5160-R.jpg",
+   "out_size": [
+    578,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5160  SIZE: 4-24 COLOR: ICE BLUE (H951) YELLOW (H162) PINK (H27",
+   "text": "5160\r\rSIZE: 4-24\rCOLOR:\rICE BLUE (H951)\rYELLOW (H162)\rPINK (H277)\r           \r>3PC\rFINE CHENILLE\rSKIRT SUIT\rW/ RHINESTONE\rCLOSURE\r& BROOCH \r",
+   "bbox": [
+    154,
+    2874,
+    621,
+    3658
+   ]
+  }
+ ]
+}

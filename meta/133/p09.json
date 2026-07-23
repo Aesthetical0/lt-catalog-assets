@@ -1,0 +1,93 @@
+{
+ "catalog": "133",
+ "page": 9,
+ "file": "133_9.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "OVAL",
+   "layer": "Layer 26",
+   "kind": "smartobject",
+   "orig_size": [
+    1224,
+    3388
+   ],
+   "bbox": [
+    792,
+    1833,
+    2016,
+    5232
+   ],
+   "image": "images/133/p09_OVAL.jpg",
+   "out_size": [
+    723,
+    2000
+   ]
+  },
+  {
+   "group": "5182",
+   "layer": "Layer 25",
+   "kind": "smartobject",
+   "orig_size": [
+    1344,
+    3817
+   ],
+   "bbox": [
+    1370,
+    74,
+    2714,
+    3891
+   ],
+   "image": "images/133/p09_5182.jpg",
+   "out_size": [
+    704,
+    2000
+   ]
+  },
+  {
+   "group": "5138",
+   "layer": "Layer 24",
+   "kind": "smartobject",
+   "orig_size": [
+    1194,
+    3822
+   ],
+   "bbox": [
+    164,
+    74,
+    1358,
+    3916
+   ],
+   "image": "images/133/p09_5138.jpg",
+   "out_size": [
+    625,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5182  SIZE: 4-24 COLOR: GREEN/MULTI (H228)  ROSE/MULTI  GOLD/MU",
+   "text": "5182\r\rSIZE: 4-24\rCOLOR:\rGREEN/MULTI (H228) \rROSE/MULTI \rGOLD/MULTI (H162)\r\r>2PC\rLIGHT JACQUARD\rSKIRT SUIT\rW/ RHINESTONE\rBUTTONS ",
+   "bbox": [
+    114,
+    3005,
+    705,
+    3733
+   ]
+  },
+  {
+   "layer": "5138  SIZE: 8-20 COLOR: OFF WHITE (H151)  >3PC FINE LINEN FEEL ",
+   "text": "5138\r\rSIZE: 8-20\rCOLOR:\rOFF WHITE (H151)\r\r>3PC\rFINE LINEN\rFEEL SKIRT SUIT ",
+   "bbox": [
+    2241,
+    3172,
+    2752,
+    3675
+   ]
+  }
+ ]
+}
