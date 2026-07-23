@@ -1,0 +1,73 @@
+{
+ "catalog": "134",
+ "page": 2,
+ "file": "134_2.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "Left Model",
+   "layer": "Layer 2",
+   "kind": "smartobject",
+   "orig_size": [
+    1503,
+    3821
+   ],
+   "bbox": [
+    168,
+    73,
+    1466,
+    3969
+   ],
+   "image": "images/134/p02_Left_Model.jpg",
+   "out_size": [
+    787,
+    2000
+   ]
+  },
+  {
+   "group": "Right Model",
+   "layer": "Layer 3",
+   "kind": "smartobject",
+   "orig_size": [
+    1228,
+    3821
+   ],
+   "bbox": [
+    1573,
+    72,
+    2771,
+    3898
+   ],
+   "image": "images/134/p02_Right_Model.jpg",
+   "out_size": [
+    643,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5129  SIZE 4-24 GREEN/MULTI (H121)  >FINE EYELET DRESS W/ REMOV",
+   "text": "5129\r\rSIZE 4-24\rGREEN/MULTI (H121)\r\r>FINE\rEYELET DRESS\rW/ REMOVEABLE BELT",
+   "bbox": [
+    153,
+    3001,
+    803,
+    3448
+   ]
+  },
+  {
+   "layer": "5174  SIZE: S/M, L/XL, 2XL/3XL COLOR: PINK  GREEN (H121) PURPLE",
+   "text": "5174\r\rSIZE: S/M, L/XL, 2XL/3XL\rCOLOR:\rPINK \rGREEN (H121)\rPURPLE \r\r>2PC FINE\rPLEATED BLOUSE\rW/ ELEGANT \rMAXI THULLE SKIRT\rW/ RHINESTONE \r",
+   "bbox": [
+    1453,
+    3158,
+    2125,
+    3886
+   ]
+  }
+ ]
+}

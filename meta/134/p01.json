@@ -1,0 +1,103 @@
+{
+ "catalog": "134",
+ "page": 1,
+ "file": "134_1.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "Background",
+   "layer": "Layer 3",
+   "kind": "pixel",
+   "orig_size": [
+    2906,
+    3969
+   ],
+   "bbox": [
+    0,
+    0,
+    2906,
+    3969
+   ],
+   "image": "images/134/p01_Background.jpg",
+   "out_size": [
+    1464,
+    2000
+   ]
+  },
+  {
+   "group": "Company Logo",
+   "layer": "图层 8",
+   "kind": "pixel",
+   "orig_size": [
+    500,
+    3816
+   ],
+   "bbox": [
+    2294,
+    74,
+    2794,
+    3890
+   ],
+   "image": "images/134/p01_Company_Logo.jpg",
+   "out_size": [
+    262,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "2 0 2 6",
+   "text": "2 0 2 6",
+   "bbox": [
+    262,
+    540,
+    843,
+    657
+   ]
+  },
+  {
+   "layer": "CATALOG CXXXIV #134",
+   "text": "CATALOG\rCXXXIV #134",
+   "bbox": [
+    123,
+    700,
+    964,
+    859
+   ]
+  },
+  {
+   "layer": "CATALOG CXXXIV #134",
+   "text": "CATALOG\rCXXXIV #134",
+   "bbox": [
+    125,
+    701,
+    966,
+    860
+   ]
+  },
+  {
+   "layer": "SUMMER",
+   "text": "SUMMER",
+   "bbox": [
+    342,
+    428,
+    764,
+    490
+   ]
+  },
+  {
+   "layer": "  5145 (H169) DETAILS ON PAGE 22",
+   "text": " \r5145 (H169)\rDETAILS ON\rPAGE 22",
+   "bbox": [
+    180,
+    3015,
+    520,
+    3176
+   ]
+  }
+ ]
+}

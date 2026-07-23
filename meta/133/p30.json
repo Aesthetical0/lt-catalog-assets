@@ -1,0 +1,93 @@
+{
+ "catalog": "133",
+ "page": 30,
+ "file": "133_30.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "OVAL",
+   "layer": "Layer 9",
+   "kind": "smartobject",
+   "orig_size": [
+    1256,
+    3032
+   ],
+   "bbox": [
+    825,
+    1774,
+    2081,
+    4806
+   ],
+   "image": "images/133/p30_OVAL.jpg",
+   "out_size": [
+    828,
+    2000
+   ]
+  },
+  {
+   "group": "891",
+   "layer": "Layer 7",
+   "kind": "smartobject",
+   "orig_size": [
+    1158,
+    3763
+   ],
+   "bbox": [
+    104,
+    130,
+    1278,
+    3893
+   ],
+   "image": "images/133/p30_891.jpg",
+   "out_size": [
+    615,
+    2000
+   ]
+  },
+  {
+   "group": "838",
+   "layer": "Layer 8",
+   "kind": "smartobject",
+   "orig_size": [
+    1173,
+    3822
+   ],
+   "bbox": [
+    1549,
+    72,
+    2722,
+    3894
+   ],
+   "image": "images/133/p30_838.jpg",
+   "out_size": [
+    614,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "891  SIZE: S-4X COLOR:  BLACK/EMERALD  BLACK/IVORY BLACK/RED (H",
+   "text": "891\r\rSIZE: S-4X\rCOLOR: \rBLACK/EMERALD \rBLACK/IVORY\rBLACK/RED (H289)\r\r>2PC FINE\rKNIT DRESS\rW/3/4 JACKET\rW/ NAUTICAL\rBUTTONS ",
+   "bbox": [
+    105,
+    2750,
+    628,
+    3478
+   ]
+  },
+  {
+   "layer": "838  SIZE: S-4X COLOR:  ORANGE BLACK (H747) PINK (H129) WHITE  ",
+   "text": "838\r\rSIZE: S-4X\rCOLOR: \rORANGE\rBLACK (H747)\rPINK (H129)\rWHITE \r\r>3PC FINE\rCROCHET KNIT\rSKIRT SUIT\rW/ RHINESTONE\rJACKET",
+   "bbox": [
+    2299,
+    3053,
+    2765,
+    3837
+   ]
+  }
+ ]
+}
