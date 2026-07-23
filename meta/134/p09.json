@@ -1,0 +1,103 @@
+{
+ "catalog": "134",
+ "page": 9,
+ "file": "134_9.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "OVAL",
+   "layer": "Layer 19",
+   "kind": "smartobject",
+   "orig_size": [
+    1523,
+    3366
+   ],
+   "bbox": [
+    1056,
+    1767,
+    2579,
+    5133
+   ],
+   "image": "images/134/p09_OVAL.jpg",
+   "out_size": [
+    905,
+    2000
+   ]
+  },
+  {
+   "group": "Right Model",
+   "layer": "Layer 18",
+   "kind": "smartobject",
+   "orig_size": [
+    1059,
+    3586
+   ],
+   "bbox": [
+    1812,
+    279,
+    2902,
+    3865
+   ],
+   "image": "images/134/p09_Right_Model.jpg",
+   "out_size": [
+    591,
+    2000
+   ]
+  },
+  {
+   "group": "Left Model",
+   "layer": "Layer 17",
+   "kind": "smartobject",
+   "orig_size": [
+    1702,
+    3588
+   ],
+   "bbox": [
+    -64,
+    278,
+    1679,
+    3866
+   ],
+   "image": "images/134/p09_Left_Model.jpg",
+   "out_size": [
+    949,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "4963  SIZE: 4-24 COLOR: RED/MULTI (H132) KIWI/MULTI (H150)  >LI",
+   "text": "4963\r\rSIZE: 4-24\rCOLOR:\rRED/MULTI (H132)\rKIWI/MULTI (H150)\r\r>LIGHT\rBROCADE DRESS\rW/ RHINESTONE BROOCH ",
+   "bbox": [
+    544,
+    2930,
+    1281,
+    3489
+   ]
+  },
+  {
+   "layer": "4982  SIZE: 4-22 COLOR: NAVY WHITE (H365) ORANGE (H938) FUCHSIA",
+   "text": "4982\r\rSIZE: 4-22\rCOLOR:\rNAVY\rWHITE (H365)\rORANGE (H938)\rFUCHSIA \r\r>FRENCH\rCREPE DRESS\rW/ RAGLAN\rSLEEVES",
+   "bbox": [
+    2313,
+    2930,
+    2759,
+    3658
+   ]
+  },
+  {
+   "layer": "9",
+   "text": "9",
+   "bbox": [
+    2703,
+    3729,
+    2754,
+    3810
+   ]
+  }
+ ]
+}

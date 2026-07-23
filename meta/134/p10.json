@@ -1,0 +1,93 @@
+{
+ "catalog": "134",
+ "page": 10,
+ "file": "134_10.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "OVAL",
+   "layer": "Layer 19",
+   "kind": "smartobject",
+   "orig_size": [
+    1333,
+    3189
+   ],
+   "bbox": [
+    726,
+    1833,
+    2059,
+    5030
+   ],
+   "image": "images/134/p10_OVAL.jpg",
+   "out_size": [
+    836,
+    2000
+   ]
+  },
+  {
+   "group": "Right Model",
+   "layer": "Layer 18",
+   "kind": "smartobject",
+   "orig_size": [
+    1314,
+    3815
+   ],
+   "bbox": [
+    1512,
+    74,
+    2826,
+    3894
+   ],
+   "image": "images/134/p10_Right_Model.jpg",
+   "out_size": [
+    689,
+    2000
+   ]
+  },
+  {
+   "group": "Left Model",
+   "layer": "Layer 17",
+   "kind": "smartobject",
+   "orig_size": [
+    1375,
+    3817
+   ],
+   "bbox": [
+    61,
+    73,
+    1456,
+    3931
+   ],
+   "image": "images/134/p10_Left_Model.jpg",
+   "out_size": [
+    720,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5032  SIZE: 4-24 COLOR: FUCHSIA/MULTI (H156) TURQUOISE/MULTI (H",
+   "text": "5032\r\rSIZE: 4-24\rCOLOR:\rFUCHSIA/MULTI (H156)\rTURQUOISE/MULTI (H627)\r\r>LIGHT\rBROCADE DRESS\rW/ RHINESTONE\rFLOWER BROOCH",
+   "bbox": [
+    156,
+    2887,
+    886,
+    3502
+   ]
+  },
+  {
+   "layer": "4872  SIZE: 4-24 COLOR: WHITE/SILVER (H146) DUSTY PINK  >LIGHT ",
+   "text": "4872\r\rSIZE: 4-24\rCOLOR:\rWHITE/SILVER (H146)\rDUSTY PINK\r\r>LIGHT\rJACQUARD DRESS\rW/ SPLIT\rBELL SLEEVE\r& W/ RHINESTONE\rBROOCH ",
+   "bbox": [
+    2168,
+    2862,
+    2772,
+    3590
+   ]
+  }
+ ]
+}

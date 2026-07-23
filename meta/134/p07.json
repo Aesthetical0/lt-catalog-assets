@@ -1,0 +1,93 @@
+{
+ "catalog": "134",
+ "page": 7,
+ "file": "134_7.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "OVAL",
+   "layer": "Layer 20",
+   "kind": "smartobject",
+   "orig_size": [
+    1163,
+    2933
+   ],
+   "bbox": [
+    791,
+    1823,
+    1954,
+    4756
+   ],
+   "image": "images/134/p07_OVAL.jpg",
+   "out_size": [
+    793,
+    2000
+   ]
+  },
+  {
+   "group": "Left Model",
+   "layer": "Layer 18",
+   "kind": "smartobject",
+   "orig_size": [
+    1176,
+    3825
+   ],
+   "bbox": [
+    -15,
+    72,
+    1549,
+    4305
+   ],
+   "image": "images/134/p07_Left_Model.jpg",
+   "out_size": [
+    615,
+    2000
+   ]
+  },
+  {
+   "group": "Right Model",
+   "layer": "Layer 19",
+   "kind": "smartobject",
+   "orig_size": [
+    1502,
+    3658
+   ],
+   "bbox": [
+    1558,
+    233,
+    3301,
+    4325
+   ],
+   "image": "images/134/p07_Right_Model.jpg",
+   "out_size": [
+    821,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5171  SIZE: S/M, L/XL, 2XL/3XL COLOR: BLACK/WHITE (H154)  >FINE",
+   "text": "5171\r\rSIZE: S/M, L/XL, 2XL/3XL\rCOLOR:\rBLACK/WHITE (H154)\r\r>FINE PLEATED\rMAXI DRESS\rW/ REMOVEABLE BELT ",
+   "bbox": [
+    138,
+    3038,
+    811,
+    3541
+   ]
+  },
+  {
+   "layer": "5152  COLOR: NAVY (4-20) (H121) WHITE (4-18)  >DENIM DRESS W/ E",
+   "text": "5152\r\rCOLOR:\rNAVY (4-20) (H121)\rWHITE (4-18)\r\r>DENIM DRESS\rW/ EMBROIDERY",
+   "bbox": [
+    1731,
+    3095,
+    2254,
+    3542
+   ]
+  }
+ ]
+}

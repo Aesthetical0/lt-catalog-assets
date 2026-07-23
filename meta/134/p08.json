@@ -1,0 +1,93 @@
+{
+ "catalog": "134",
+ "page": 8,
+ "file": "134_8.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "OVAL",
+   "layer": "Layer 18",
+   "kind": "smartobject",
+   "orig_size": [
+    1430,
+    2752
+   ],
+   "bbox": [
+    584,
+    1799,
+    2014,
+    4551
+   ],
+   "image": "images/134/p08_OVAL.jpg",
+   "out_size": [
+    1039,
+    2000
+   ]
+  },
+  {
+   "group": "Left Model",
+   "layer": "Layer 16",
+   "kind": "smartobject",
+   "orig_size": [
+    1146,
+    3822
+   ],
+   "bbox": [
+    -50,
+    72,
+    1453,
+    4297
+   ],
+   "image": "images/134/p08_Left_Model.jpg",
+   "out_size": [
+    600,
+    2000
+   ]
+  },
+  {
+   "group": "Right Model",
+   "layer": "Layer 17",
+   "kind": "smartobject",
+   "orig_size": [
+    1448,
+    3822
+   ],
+   "bbox": [
+    1359,
+    72,
+    3056,
+    3932
+   ],
+   "image": "images/134/p08_Right_Model.jpg",
+   "out_size": [
+    758,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5126  SIZE: 4-22 COLOR: ORANGE/MULTI (H130)  >FINE EYELET DRESS",
+   "text": "5126\r\rSIZE: 4-22\rCOLOR:\rORANGE/MULTI (H130)\r\r>FINE\rEYELET DRESS\rW/ REMOVEABLE\rBRAIDED BELT",
+   "bbox": [
+    155,
+    2975,
+    791,
+    3533
+   ]
+  },
+  {
+   "layer": "5077  SIZE: 4-24 COLOR: RED (H154) GOLD IVORY (H132) BLACK   >F",
+   "text": "5077\r\rSIZE: 4-24\rCOLOR:\rRED (H154)\rGOLD\rIVORY (H132)\rBLACK \r\r>FINE\rTENSEL DRESS\rW/ REMOVEABLE BELT ",
+   "bbox": [
+    1857,
+    3163,
+    2507,
+    3835
+   ]
+  }
+ ]
+}
