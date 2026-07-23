@@ -1,0 +1,73 @@
+{
+ "catalog": "133",
+ "page": 17,
+ "file": "133_17.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "4859",
+   "layer": "Layer 18",
+   "kind": "smartobject",
+   "orig_size": [
+    1175,
+    3824
+   ],
+   "bbox": [
+    1468,
+    72,
+    3028,
+    4366
+   ],
+   "image": "images/133/p17_4859.jpg",
+   "out_size": [
+    615,
+    2000
+   ]
+  },
+  {
+   "group": "5106",
+   "layer": "Layer 17",
+   "kind": "smartobject",
+   "orig_size": [
+    1234,
+    3825
+   ],
+   "bbox": [
+    177,
+    72,
+    1606,
+    4487
+   ],
+   "image": "images/133/p17_5106.jpg",
+   "out_size": [
+    645,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "4859  SIZE: 4-24  COLOR: ROYAL BLUE/MULTI PINK/MULTI (H214)  >L",
+   "text": "4859\r\rSIZE: 4-24 \rCOLOR:\rROYAL BLUE/MULTI\rPINK/MULTI (H214)\r\r>LIGHT\rJACQUARD DRESS\rW/ BOW\rON SHOULDER\r& W/ RHINESTONE\rBROOCH\r",
+   "bbox": [
+    145,
+    2706,
+    697,
+    3434
+   ]
+  },
+  {
+   "layer": "5106  SIZE: 4-24  COLOR: CHAMPAGNE  BLACK  MAUVE (H938)  >FINE ",
+   "text": "5106\r\rSIZE: 4-24 \rCOLOR:\rCHAMPAGNE \rBLACK \rMAUVE (H938)\r\r>FINE BEADED\rLACE DRESS\rW/ REMOVEABLE\rBELT &\rW/ BUTTONS ",
+   "bbox": [
+    1363,
+    2819,
+    1849,
+    3547
+   ]
+  }
+ ]
+}

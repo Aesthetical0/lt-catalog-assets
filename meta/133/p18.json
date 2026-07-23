@@ -1,0 +1,63 @@
+{
+ "catalog": "133",
+ "page": 18,
+ "file": "133_18.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "4010-L",
+   "layer": "Layer 21",
+   "kind": "smartobject",
+   "orig_size": [
+    1527,
+    3441
+   ],
+   "bbox": [
+    76,
+    286,
+    1381,
+    3845
+   ],
+   "image": "images/133/p18_4010-L.jpg",
+   "out_size": [
+    888,
+    2000
+   ]
+  },
+  {
+   "group": "4010-R",
+   "layer": "Layer 24",
+   "kind": "smartobject",
+   "orig_size": [
+    1789,
+    3561
+   ],
+   "bbox": [
+    1117,
+    287,
+    2906,
+    3848
+   ],
+   "image": "images/133/p18_4010-R.jpg",
+   "out_size": [
+    1005,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "4010  SIZE: 4-24 COLOR: ORANGE/MULTI (H475) GREEN/MULTI (H160) ",
+   "text": "4010\r\rSIZE: 4-24\rCOLOR:\rORANGE/MULTI (H475)\rGREEN/MULTI (H160)\r\r>2PC\rFINE POLY\rSKIRT SUIT\rW/ BOW\rON SHOULDER\rW/ RHINESTONE\rBROOCH ",
+   "bbox": [
+    1077,
+    2950,
+    1713,
+    3734
+   ]
+  }
+ ]
+}

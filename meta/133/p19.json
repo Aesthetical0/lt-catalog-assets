@@ -1,0 +1,83 @@
+{
+ "catalog": "133",
+ "page": 19,
+ "file": "133_19.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "OVAL",
+   "layer": "Layer 16",
+   "kind": "smartobject",
+   "orig_size": [
+    1329,
+    3286
+   ],
+   "bbox": [
+    968,
+    1801,
+    2327,
+    5005
+   ],
+   "image": "images/133/p19_OVAL.jpg",
+   "out_size": [
+    809,
+    2000
+   ]
+  },
+  {
+   "group": "840-L",
+   "layer": "Layer 17",
+   "kind": "smartobject",
+   "orig_size": [
+    1241,
+    3816
+   ],
+   "bbox": [
+    395,
+    73,
+    1636,
+    3912
+   ],
+   "image": "images/133/p19_840-L.jpg",
+   "out_size": [
+    650,
+    2000
+   ]
+  },
+  {
+   "group": "840-R",
+   "layer": "Layer 18",
+   "kind": "smartobject",
+   "orig_size": [
+    861,
+    3792
+   ],
+   "bbox": [
+    1731,
+    102,
+    2632,
+    3932
+   ],
+   "image": "images/133/p19_840-R.jpg",
+   "out_size": [
+    454,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "840  SIZE: S-3X COLOR: ROYAL BLUE (H476) (B133) CHAMPAGNE (H143",
+   "text": "840\r\rSIZE: S-3X\rCOLOR:\rROYAL BLUE (H476) (B133)\rCHAMPAGNE (H143)\rBLACK \rPINK (H476)\r\r>3PC\rFINE KNIT\rSKIRT SUIT\rW/ LUXURY TRIM\rBRAIDED JACKET\rW/ RHINESTONE\rBUTTONS ",
+   "bbox": [
+    277,
+    2890,
+    1027,
+    3787
+   ]
+  }
+ ]
+}
