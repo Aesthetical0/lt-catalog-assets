@@ -1,0 +1,53 @@
+{
+ "catalog": "134",
+ "page": 32,
+ "file": "134_32.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "组 1",
+   "layer": "Layer 30",
+   "kind": "smartobject",
+   "orig_size": [
+    1376,
+    3829
+   ],
+   "bbox": [
+    731,
+    70,
+    2404,
+    3935
+   ],
+   "image": "images/134/p32_组_1.jpg",
+   "out_size": [
+    719,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "2026 LILY & TAYLOR INC. ALL STYLE COPYRIGHT BY LILY & TAYLOR.",
+   "text": "2026 LILY & TAYLOR INC. ALL STYLE COPYRIGHT BY LILY & TAYLOR.",
+   "bbox": [
+    2741,
+    2138,
+    2773,
+    3555
+   ]
+  },
+  {
+   "layer": "  4994 (H121) DETAILS ON PAGE 22",
+   "text": " \r4994 (H121)\rDETAILS ON\rPAGE 22",
+   "bbox": [
+    884,
+    3393,
+    1226,
+    3554
+   ]
+  }
+ ]
+}
