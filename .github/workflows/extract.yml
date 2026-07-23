@@ -1,5 +1,5 @@
 name: extract-catalog
-on: [push, workflow_dispatch]
+on: workflow_dispatch
 permissions:
   contents: write
 jobs:
