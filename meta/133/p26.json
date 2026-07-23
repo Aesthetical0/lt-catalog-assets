@@ -1,0 +1,93 @@
+{
+ "catalog": "133",
+ "page": 26,
+ "file": "133_26.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "OVAL",
+   "layer": "Layer 21",
+   "kind": "smartobject",
+   "orig_size": [
+    1174,
+    3129
+   ],
+   "bbox": [
+    872,
+    1762,
+    2046,
+    4891
+   ],
+   "image": "images/133/p26_OVAL.jpg",
+   "out_size": [
+    750,
+    2000
+   ]
+  },
+  {
+   "group": "902",
+   "layer": "Layer 20",
+   "kind": "smartobject",
+   "orig_size": [
+    1000,
+    3820
+   ],
+   "bbox": [
+    1624,
+    73,
+    2709,
+    3893
+   ],
+   "image": "images/133/p26_902.jpg",
+   "out_size": [
+    524,
+    2000
+   ]
+  },
+  {
+   "group": "830",
+   "layer": "Layer 19",
+   "kind": "smartobject",
+   "orig_size": [
+    1100,
+    3763
+   ],
+   "bbox": [
+    252,
+    131,
+    1352,
+    3917
+   ],
+   "image": "images/133/p26_830.jpg",
+   "out_size": [
+    585,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "830  SIZE: S-4X COLOR: LAVENDER FUCHSIA (H161) (B132) BLACK  WH",
+   "text": "830\r\rSIZE: S-4X\rCOLOR:\rLAVENDER\rFUCHSIA (H161) (B132)\rBLACK \rWHITE (H111)\rMINT \r\r>3PC\rFINE KNIT\rSKIRT SUIT\rW/ RHINESTONE\rTRIMMED JACKET ",
+   "bbox": [
+    155,
+    2794,
+    795,
+    3634
+   ]
+  },
+  {
+   "layer": "902  SIZE: S-2X COLOR: BLACK (H164)   >COUTURE COLLECTION - FIG",
+   "text": "902\r\rSIZE: S-2X\rCOLOR:\rBLACK (H164) \r\r>COUTURE COLLECTION\r- FIGURE FLATTERING\rCHIFFON KNIT DRESS ",
+   "bbox": [
+    2098,
+    3018,
+    2804,
+    3521
+   ]
+  }
+ ]
+}

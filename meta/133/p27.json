@@ -1,0 +1,93 @@
+{
+ "catalog": "133",
+ "page": 27,
+ "file": "133_27.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "OVAL",
+   "layer": "Layer 19",
+   "kind": "smartobject",
+   "orig_size": [
+    1204,
+    3170
+   ],
+   "bbox": [
+    851,
+    1820,
+    2055,
+    4990
+   ],
+   "image": "images/133/p27_OVAL.jpg",
+   "out_size": [
+    760,
+    2000
+   ]
+  },
+  {
+   "group": "910",
+   "layer": "Layer 17",
+   "kind": "smartobject",
+   "orig_size": [
+    923,
+    3830
+   ],
+   "bbox": [
+    249,
+    67,
+    1208,
+    3897
+   ],
+   "image": "images/133/p27_910.jpg",
+   "out_size": [
+    482,
+    2000
+   ]
+  },
+  {
+   "group": "899",
+   "layer": "Layer 18",
+   "kind": "smartobject",
+   "orig_size": [
+    1039,
+    3830
+   ],
+   "bbox": [
+    1615,
+    67,
+    2658,
+    3897
+   ],
+   "image": "images/133/p27_899.jpg",
+   "out_size": [
+    543,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "910  SIZE: S-2X COLOR: CHAMPAGNE (H165)  >COUTURE COLLECTION  -",
+   "text": "910\r\rSIZE: S-2X\rCOLOR:\rCHAMPAGNE (H165)\r\r>COUTURE COLLECTION \r- FIGURE FLATTERING\rDRESS W/ FULL\rTASSEL BOTTOM",
+   "bbox": [
+    136,
+    3016,
+    842,
+    3575
+   ]
+  },
+  {
+   "layer": "899  SIZE: S-4X COLOR: EMERALD (H473) PINK (H473) (B133)  >3PC ",
+   "text": "899\r\rSIZE: S-4X\rCOLOR:\rEMERALD (H473)\rPINK (H473) (B133)\r\r>3PC FINE\rCROCHET KNIT\rSKIRT SUIT\rW/ RHINESTONE\rBUTTONS",
+   "bbox": [
+    2244,
+    2905,
+    2764,
+    3577
+   ]
+  }
+ ]
+}

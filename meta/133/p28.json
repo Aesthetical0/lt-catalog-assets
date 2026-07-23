@@ -1,0 +1,93 @@
+{
+ "catalog": "133",
+ "page": 28,
+ "file": "133_28.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "OVAL",
+   "layer": "Layer 19",
+   "kind": "smartobject",
+   "orig_size": [
+    1249,
+    3295
+   ],
+   "bbox": [
+    762,
+    1833,
+    2011,
+    5219
+   ],
+   "image": "images/133/p28_OVAL.jpg",
+   "out_size": [
+    758,
+    2000
+   ]
+  },
+  {
+   "group": "824",
+   "layer": "Layer 17",
+   "kind": "smartobject",
+   "orig_size": [
+    1047,
+    3821
+   ],
+   "bbox": [
+    125,
+    73,
+    1344,
+    3894
+   ],
+   "image": "images/133/p28_824.jpg",
+   "out_size": [
+    548,
+    2000
+   ]
+  },
+  {
+   "group": "889",
+   "layer": "Layer 18",
+   "kind": "smartobject",
+   "orig_size": [
+    979,
+    3822
+   ],
+   "bbox": [
+    1646,
+    72,
+    2625,
+    3894
+   ],
+   "image": "images/133/p28_889.jpg",
+   "out_size": [
+    512,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "824  COLOR: HOT PINK (H397) (S-2X) EMERALD (M-2X) PURPLE (S-2X)",
+   "text": "824\r\rCOLOR:\rHOT PINK (H397) (S-2X)\rEMERALD (M-2X)\rPURPLE (S-2X)\rBLACK (M-2X)\rWHITE (H153) (S-4X)\r\r>3PC FINE\rCROCHET KNIT\rSKIRT SUIT\rW/ RUFFLE SKIRT\rAND CARDIGAN \r",
+   "bbox": [
+    156,
+    2810,
+    810,
+    3594
+   ]
+  },
+  {
+   "layer": "889   SIZE: S-3X COLOR: SILVER/MULTI (H143) (B126)  >2PC FINE L",
+   "text": "889 \r\rSIZE: S-3X\rCOLOR:\rSILVER/MULTI (H143) (B126)\r\r>2PC FINE\rLUXURIOUS FRENCH\rBOUCLE KNIT\rSKIRT SUIT\rW/ FRINGE TRIM SKIRT\rW/ RHINESTONE BUTTONS\rAND POCKETS \r",
+   "bbox": [
+    1919,
+    3086,
+    2703,
+    3814
+   ]
+  }
+ ]
+}
