@@ -1,0 +1,103 @@
+{
+ "catalog": "134",
+ "page": 16,
+ "file": "134_16.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "Group 2",
+   "layer": "Layer 19",
+   "kind": "smartobject",
+   "orig_size": [
+    1005,
+    3440
+   ],
+   "bbox": [
+    56,
+    279,
+    1151,
+    3719
+   ],
+   "image": "images/134/p16_Group_2.jpg",
+   "out_size": [
+    584,
+    2000
+   ]
+  },
+  {
+   "group": "Center Model",
+   "layer": "Layer 20",
+   "kind": "smartobject",
+   "orig_size": [
+    1115,
+    3440
+   ],
+   "bbox": [
+    817,
+    357,
+    2016,
+    3797
+   ],
+   "image": "images/134/p16_Center_Model.jpg",
+   "out_size": [
+    648,
+    2000
+   ]
+  },
+  {
+   "group": "Right Model",
+   "layer": "Layer 21",
+   "kind": "smartobject",
+   "orig_size": [
+    1036,
+    3438
+   ],
+   "bbox": [
+    1813,
+    358,
+    2849,
+    3796
+   ],
+   "image": "images/134/p16_Right_Model.jpg",
+   "out_size": [
+    603,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "4901  SIZE: 4-24 COLOR: WHITE  BLACK  EMERALD (H151)   >PONTE K",
+   "text": "4901\r\rSIZE: 4-24\rCOLOR:\rWHITE \rBLACK \rEMERALD (H151) \r\r>PONTE\rKNIT DRESS\rW/ RHINESTONE\rLEAF PETAL\rSHOULDER",
+   "bbox": [
+    86,
+    2895,
+    561,
+    3623
+   ]
+  },
+  {
+   "layer": "5042  SIZE: 4-24 COLOR: WHITE (H627) LAVENDER  >LACE DRESS W/ F",
+   "text": "5042\r\rSIZE: 4-24\rCOLOR:\rWHITE (H627)\rLAVENDER\r\r>LACE DRESS\rW/ FLUTTER\rCAPE SLEEVES ",
+   "bbox": [
+    1096,
+    3030,
+    1533,
+    3589
+   ]
+  },
+  {
+   "layer": "4903  SIZE: 4-24 COLOR: ROSE (H724) WHITE  ROYAL BLUE   >PONTE ",
+   "text": "4903\r\rSIZE: 4-24\rCOLOR:\rROSE (H724)\rWHITE \rROYAL BLUE \r\r>PONTE\rKNIT DRESS\rW/ RUFFLE SHOULDER\rW/ RHINESTONE\rTRIM NECKLINE ",
+   "bbox": [
+    1932,
+    2783,
+    2585,
+    3510
+   ]
+  }
+ ]
+}

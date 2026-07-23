@@ -1,0 +1,103 @@
+{
+ "catalog": "134",
+ "page": 15,
+ "file": "134_15.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "Right Model",
+   "layer": "Layer 18",
+   "kind": "smartobject",
+   "orig_size": [
+    1271,
+    3541
+   ],
+   "bbox": [
+    1620,
+    230,
+    2985,
+    3771
+   ],
+   "image": "images/134/p15_Right_Model.jpg",
+   "out_size": [
+    718,
+    2000
+   ]
+  },
+  {
+   "group": "Center Model",
+   "layer": "Layer 21",
+   "kind": "smartobject",
+   "orig_size": [
+    1059,
+    3539
+   ],
+   "bbox": [
+    874,
+    230,
+    1933,
+    3770
+   ],
+   "image": "images/134/p15_Center_Model.jpg",
+   "out_size": [
+    598,
+    2000
+   ]
+  },
+  {
+   "group": "Left Model",
+   "layer": "Layer 20",
+   "kind": "smartobject",
+   "orig_size": [
+    1037,
+    3539
+   ],
+   "bbox": [
+    -106,
+    231,
+    1230,
+    3772
+   ],
+   "image": "images/134/p15_Left_Model.jpg",
+   "out_size": [
+    586,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5097  SIZE: S/M, L/XL, 2XL/3XL COLOR: PURPLE (H132)  >2PC ELEGA",
+   "text": "5097\r\rSIZE: S/M, L/XL, 2XL/3XL\rCOLOR:\rPURPLE (H132)\r\r>2PC\rELEGANT PLEATED\rPANT SUIT\rW/ FRINGE BLOUSE",
+   "bbox": [
+    155,
+    3212,
+    828,
+    3771
+   ]
+  },
+  {
+   "layer": "4961  SIZE: 4-24 COLOR: GOLD WHITE (H290) ICE GREEN   >LIGHT BR",
+   "text": "4961\r\rSIZE: 4-24\rCOLOR:\rGOLD\rWHITE (H290)\rICE GREEN \r\r>LIGHT\rBROCADE DRESS\rW/ RHINESTONE\rBROOCH ",
+   "bbox": [
+    993,
+    2684,
+    1496,
+    3356
+   ]
+  },
+  {
+   "layer": "4991  SIZE: 4-24 COLOR: NAVY/WHITE (H121)  >EYELET DRESS W/ KIM",
+   "text": "4991\r\rSIZE: 4-24\rCOLOR:\rNAVY/WHITE (H121)\r\r>EYELET DRESS\rW/ KIMONO SLEEVE",
+   "bbox": [
+    1869,
+    2920,
+    2433,
+    3367
+   ]
+  }
+ ]
+}

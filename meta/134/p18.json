@@ -1,0 +1,103 @@
+{
+ "catalog": "134",
+ "page": 18,
+ "file": "134_18.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "RightModel",
+   "layer": "Layer 23",
+   "kind": "smartobject",
+   "orig_size": [
+    1338,
+    3820
+   ],
+   "bbox": [
+    1664,
+    74,
+    3049,
+    3910
+   ],
+   "image": "images/134/p18_RightModel.jpg",
+   "out_size": [
+    701,
+    2000
+   ]
+  },
+  {
+   "group": "Center Model",
+   "layer": "Layer 22",
+   "kind": "smartobject",
+   "orig_size": [
+    1344,
+    3818
+   ],
+   "bbox": [
+    583,
+    74,
+    1927,
+    3910
+   ],
+   "image": "images/134/p18_Center_Model.jpg",
+   "out_size": [
+    704,
+    2000
+   ]
+  },
+  {
+   "group": "Left Model",
+   "layer": "Layer 21",
+   "kind": "smartobject",
+   "orig_size": [
+    976,
+    3820
+   ],
+   "bbox": [
+    10,
+    73,
+    1139,
+    3932
+   ],
+   "image": "images/134/p18_Left_Model.jpg",
+   "out_size": [
+    511,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5036  SIZE: 4-20 COLOR: IVORY/MULTI (H130)  >3PC FRENCH CREPE P",
+   "text": "5036\r\rSIZE: 4-20\rCOLOR:\rIVORY/MULTI (H130)\r\r>3PC\rFRENCH CREPE\rPANT SUIT\rW/ LACE\rVEST DUSTER ",
+   "bbox": [
+    155,
+    2915,
+    720,
+    3530
+   ]
+  },
+  {
+   "layer": "5051  SIZE: S-3X COLOR: WHITE/GOLD YELLOW/GOLD (H129)  >2PC EMB",
+   "text": "5051\r\rSIZE: S-3X\rCOLOR:\rWHITE/GOLD\rYELLOW/GOLD (H129)\r\r>2PC EMBROIDERY\rPANT SUIT\rW/ CUFF SLEEVES \r",
+   "bbox": [
+    923,
+    3255,
+    1541,
+    3814
+   ]
+  },
+  {
+   "layer": "5054  SIZE: S-3X COLOR: WHITE/GOLD (H130) KHAKI/GOLD  >2PC NOVE",
+   "text": "5054\r\rSIZE: S-3X\rCOLOR:\rWHITE/GOLD (H130)\rKHAKI/GOLD\r\r>2PC\rNOVELTY POLY\rPANT SUIT\rW/ EMBROIDERY\rTOP  \r",
+   "bbox": [
+    1853,
+    3144,
+    2415,
+    3816
+   ]
+  }
+ ]
+}

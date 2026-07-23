@@ -1,0 +1,103 @@
+{
+ "catalog": "134",
+ "page": 17,
+ "file": "134_17.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "Left Model",
+   "layer": "Layer 17",
+   "kind": "smartobject",
+   "orig_size": [
+    1165,
+    3819
+   ],
+   "bbox": [
+    -101,
+    72,
+    1470,
+    4432
+   ],
+   "image": "images/134/p17_Left_Model.jpg",
+   "out_size": [
+    610,
+    2000
+   ]
+  },
+  {
+   "group": "Center Model",
+   "layer": "Layer 18",
+   "kind": "smartobject",
+   "orig_size": [
+    1273,
+    3639
+   ],
+   "bbox": [
+    491,
+    255,
+    2478,
+    4372
+   ],
+   "image": "images/134/p17_Center_Model.jpg",
+   "out_size": [
+    700,
+    2000
+   ]
+  },
+  {
+   "group": "Right Model",
+   "layer": "Layer 19",
+   "kind": "smartobject",
+   "orig_size": [
+    1002,
+    3818
+   ],
+   "bbox": [
+    1836,
+    72,
+    2989,
+    4329
+   ],
+   "image": "images/134/p17_Right_Model.jpg",
+   "out_size": [
+    525,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5050  SIZE: S-3X COLOR: WHITE/GOLD (H129) KHAKI/GOLD  >2PC EMBR",
+   "text": "5050\r\rSIZE: S-3X\rCOLOR:\rWHITE/GOLD (H129)\rKHAKI/GOLD\r\r>2PC\rEMBROIDERY\rSKIRT SUIT\rW/ FLOUNCE SKIRT ",
+   "bbox": [
+    146,
+    3193,
+    708,
+    3808
+   ]
+  },
+  {
+   "layer": "5052  SIZE: S-3X COLOR: WHITE/GOLD KIWI/GOLD  >2PC EMBROIDERY P",
+   "text": "5052\r\rSIZE: S-3X\rCOLOR:\rWHITE/GOLD\rKIWI/GOLD\r\r>2PC\rEMBROIDERY\rPANT SUIT\rW/ CUFF SLEEVES ",
+   "bbox": [
+    1093,
+    3192,
+    1614,
+    3807
+   ]
+  },
+  {
+   "layer": "5047  SIZE: S-3X COLOR: WHITE (H151) KHAKI  NAVY   >3PC SKIRT S",
+   "text": "5047\r\rSIZE: S-3X\rCOLOR:\rWHITE (H151)\rKHAKI \rNAVY \r\r>3PC\rSKIRT SUIT\rW/ LACE\rTRIM SKIRT\rAND TOP ",
+   "bbox": [
+    2016,
+    3080,
+    2397,
+    3808
+   ]
+  }
+ ]
+}
