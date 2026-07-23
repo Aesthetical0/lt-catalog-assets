@@ -111,7 +111,7 @@ def extract_page(psd_path, cat, page):
             continue
         cands = [l for l in grp.descendants()
                  if l.kind in ("smartobject", "pixel") and not l.is_group()
-                 and l.width * l.height > 300_000]
+                 and l.width * l.height > 300_000 and l.width >= 350]
         if not cands:
             continue
         smart = [l for l in cands if l.kind == "smartobject"]
