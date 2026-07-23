@@ -1,0 +1,237 @@
+{
+ "catalog": "134",
+ "page": 25,
+ "canvas": [
+  2906,
+  3969
+ ],
+ "layers": [
+  {
+   "layer": "Layer 16 copy 13",
+   "kind": "smartobject",
+   "bbox": [
+    98,
+    115,
+    967,
+    1316
+   ],
+   "image": "images/134/p25_g_01_Layer_16_copy_13.jpg",
+   "out_size": [
+    869,
+    1201
+   ]
+  },
+  {
+   "layer": "Layer 16",
+   "kind": "smartobject",
+   "bbox": [
+    1019,
+    115,
+    1888,
+    1317
+   ],
+   "image": "images/134/p25_g_02_Layer_16.jpg",
+   "out_size": [
+    869,
+    1202
+   ]
+  },
+  {
+   "layer": "Layer 16 copy 6",
+   "kind": "smartobject",
+   "bbox": [
+    1938,
+    115,
+    2807,
+    1317
+   ],
+   "image": "images/134/p25_g_03_Layer_16_copy_6.jpg",
+   "out_size": [
+    869,
+    1202
+   ]
+  },
+  {
+   "layer": "Layer 16 copy 7",
+   "kind": "smartobject",
+   "bbox": [
+    98,
+    1367,
+    967,
+    2569
+   ],
+   "image": "images/134/p25_g_04_Layer_16_copy_7.jpg",
+   "out_size": [
+    869,
+    1202
+   ]
+  },
+  {
+   "layer": "Layer 16 copy 8",
+   "kind": "smartobject",
+   "bbox": [
+    1019,
+    1368,
+    1888,
+    2569
+   ],
+   "image": "images/134/p25_g_05_Layer_16_copy_8.jpg",
+   "out_size": [
+    869,
+    1201
+   ]
+  },
+  {
+   "layer": "Layer 16 copy 9",
+   "kind": "smartobject",
+   "bbox": [
+    1938,
+    1368,
+    2807,
+    2569
+   ],
+   "image": "images/134/p25_g_06_Layer_16_copy_9.jpg",
+   "out_size": [
+    869,
+    1201
+   ]
+  },
+  {
+   "layer": "Layer 16 copy 10",
+   "kind": "smartobject",
+   "bbox": [
+    98,
+    2649,
+    967,
+    3850
+   ],
+   "image": "images/134/p25_g_07_Layer_16_copy_10.jpg",
+   "out_size": [
+    869,
+    1201
+   ]
+  },
+  {
+   "layer": "Layer 16 copy 12",
+   "kind": "smartobject",
+   "bbox": [
+    1018,
+    2649,
+    1887,
+    3850
+   ],
+   "image": "images/134/p25_g_08_Layer_16_copy_12.jpg",
+   "out_size": [
+    869,
+    1201
+   ]
+  },
+  {
+   "layer": "Layer 16 copy 11",
+   "kind": "smartobject",
+   "bbox": [
+    1936,
+    2649,
+    2805,
+    3850
+   ],
+   "image": "images/134/p25_g_09_Layer_16_copy_11.jpg",
+   "out_size": [
+    869,
+    1201
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "S129  SIZE: S-2X COLOR: ORANGE(H455) ROYAL BLUE KIWI  >2PC POLY",
+   "text": "S129\r\rSIZE: S-2X\rCOLOR:\rORANGE(H455)\rROYAL BLUE\rKIWI\r\r>2PC\rPOLY LACE\rBLOUSE",
+   "bbox": [
+    114,
+    130,
+    434,
+    592
+   ]
+  },
+  {
+   "layer": "S130  SIZE: S-2X COLOR: BEIGE BLACK  >2PC POLY/ORGANZA EMBRODER",
+   "text": "S130\r\rSIZE: S-2X\rCOLOR:\rBEIGE\rBLACK\r\r>2PC\rPOLY/ORGANZA\rEMBRODERY\rBLOUSE",
+   "bbox": [
+    1031,
+    130,
+    1375,
+    592
+   ]
+  },
+  {
+   "layer": "S131  SIZE: S-2X  COLOR: BLACK  >2 PC POLY/ORGANZA BLOUSE",
+   "text": "S131\r\rSIZE: S-2X \rCOLOR:\rBLACK\r\r>2 PC\rPOLY/ORGANZA\rBLOUSE",
+   "bbox": [
+    1952,
+    130,
+    2296,
+    508
+   ]
+  },
+  {
+   "layer": "S132  SIZE: S-2X COLOR: IVORY  >2PC POLY/ORGANZA  BEADED  EMBRO",
+   "text": "S132\r\rSIZE: S-2X\rCOLOR:\rIVORY\r\r>2PC\rPOLY/ORGANZA \rBEADED \rEMBRODERY\rBLOUSE",
+   "bbox": [
+    114,
+    1382,
+    458,
+    1844
+   ]
+  },
+  {
+   "layer": "5035  SIZE: 6-22 COLOR: MAUVE WHITE ROSE  >1 PC POLY/ORGANZA W/",
+   "text": "5035\r\rSIZE: 6-22\rCOLOR:\rMAUVE\rWHITE\rROSE\r\r>1 PC\rPOLY/ORGANZA\rW/ ROSEBUDS",
+   "bbox": [
+    1030,
+    1383,
+    1375,
+    1844
+   ]
+  },
+  {
+   "layer": "5035   SIZE: 6-22 COLOR:  WHITE (H137) MAUVE ROSE  >1 PC POLY/O",
+   "text": "5035\t\r\rSIZE: 6-22\rCOLOR: \rWHITE (H137)\rMAUVE\rROSE\r\r>1 PC\rPOLY/ORGANZA\rW/ ROSEBUDS",
+   "bbox": [
+    1951,
+    1383,
+    2296,
+    1844
+   ]
+  },
+  {
+   "layer": "5035  SIZE: 6-22 COLOR: ROSE WHITE MAUVE  >1PC POLY/ORGANZA W/ ",
+   "text": "5035\r\rSIZE: 6-22\rCOLOR:\rROSE\rWHITE\rMAUVE\r\r>1PC\rPOLY/ORGANZA\rW/ ROSEBUDS\r",
+   "bbox": [
+    113,
+    2663,
+    458,
+    3124
+   ]
+  },
+  {
+   "layer": "5083  SIZE: 4-24 COLOR: GREEN (H130) BLACK GOLD  >LUXURIOUS SIL",
+   "text": "5083\r\rSIZE: 4-24\rCOLOR:\rGREEN (H130)\rBLACK\rGOLD\r\r>LUXURIOUS\rSILKY FEEL\rLINEN ORGANZA\rMANDARIN\rCOLLER BLOUSE\rW/ BALLOON\rSLEEVES,\rW/ ZIPPER\rCUFFS AND\rREMOVEABLE\rBELT",
+   "bbox": [
+    1030,
+    2663,
+    1392,
+    3461
+   ]
+  },
+  {
+   "layer": "5083  SIZE: 4-24 COLOR: GOLD (H981) BLACK GREEN  >LUXURIOUS SIL",
+   "text": "5083\r\rSIZE: 4-24\rCOLOR:\rGOLD (H981)\rBLACK\rGREEN\r\r>LUXURIOUS\rSILKY FEEL\rLINEN ORGANZA\rMANDARIN\rCOLLER BLOUSE\rW/ BALLOON\rSLEEVES,\rW/ ZIPPER\rCUFFS AND\rREMOVEABLE\rBELT",
+   "bbox": [
+    1951,
+    2663,
+    2313,
+    3461
+   ]
+  }
+ ]
+}

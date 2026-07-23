@@ -1,0 +1,162 @@
+{
+ "catalog": "134",
+ "page": 27,
+ "canvas": [
+  2906,
+  3969
+ ],
+ "layers": [
+  {
+   "layer": "Layer 18",
+   "kind": "smartobject",
+   "bbox": [
+    50,
+    123,
+    960,
+    1920
+   ],
+   "image": "images/134/p27_g_01_Layer_18.jpg",
+   "out_size": [
+    910,
+    1797
+   ]
+  },
+  {
+   "layer": "Layer 19",
+   "kind": "smartobject",
+   "bbox": [
+    991,
+    123,
+    1901,
+    1920
+   ],
+   "image": "images/134/p27_g_02_Layer_19.jpg",
+   "out_size": [
+    910,
+    1797
+   ]
+  },
+  {
+   "layer": "Layer 20",
+   "kind": "smartobject",
+   "bbox": [
+    1933,
+    123,
+    2843,
+    1920
+   ],
+   "image": "images/134/p27_g_03_Layer_20.jpg",
+   "out_size": [
+    910,
+    1797
+   ]
+  },
+  {
+   "layer": "Layer 21",
+   "kind": "smartobject",
+   "bbox": [
+    50,
+    2045,
+    960,
+    3842
+   ],
+   "image": "images/134/p27_g_04_Layer_21.jpg",
+   "out_size": [
+    910,
+    1797
+   ]
+  },
+  {
+   "layer": "Layer 22",
+   "kind": "smartobject",
+   "bbox": [
+    991,
+    2045,
+    1901,
+    3842
+   ],
+   "image": "images/134/p27_g_05_Layer_22.jpg",
+   "out_size": [
+    910,
+    1797
+   ]
+  },
+  {
+   "layer": "Layer 23",
+   "kind": "smartobject",
+   "bbox": [
+    1933,
+    2045,
+    2843,
+    3842
+   ],
+   "image": "images/134/p27_g_06_Layer_23.jpg",
+   "out_size": [
+    910,
+    1797
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "3052  SIZE: 4-24 COLOR: ROYAL BLUE  HOT PINK  PURPLE  BLACK  WH",
+   "text": "3052\r\rSIZE: 4-24\rCOLOR:\rROYAL BLUE \rHOT PINK \rPURPLE \rBLACK \rWHITE\rIVORY\rPINK (H179)\rNAVY \rRED \r\r>3PC\rFRENCH CREPE\rSKIRT SUIT\rW/ RHINESTONE\rCLOSURE\r& BROOCH ",
+   "bbox": [
+    85,
+    158,
+    435,
+    998
+   ]
+  },
+  {
+   "layer": "2834  SIZE: 4-24 COLOR: ROYAL BLUE  EMERALD  HOT PINK ICE BLUE ",
+   "text": "2834\r\rSIZE: 4-24\rCOLOR:\rROYAL BLUE \rEMERALD \rHOT PINK\rICE BLUE (H196)\rPURPLE \rBLACK \rWHITE\rNAVY \rRED  \r\r>2PC FRENCH\rCREPE FLARE\rSKIRT SUIT\rW/ RHINESTONE\rBUTTONS ",
+   "bbox": [
+    1026,
+    158,
+    1376,
+    956
+   ]
+  },
+  {
+   "layer": "4063  SIZE: 4-24 COLOR: ROYAL BLUE (H102) LAVENDER  MAGENTA  IC",
+   "text": "4063\r\rSIZE: 4-24\rCOLOR:\rROYAL BLUE (H102)\rLAVENDER \rMAGENTA \rICE BLUE\rBLACK \rWHITE \rNAVY \r\r>2PC\rFRENCH CREPE\rSKIRT SUIT\rW/ COVER BUTTONS \r",
+   "bbox": [
+    1968,
+    158,
+    2408,
+    830
+   ]
+  },
+  {
+   "layer": "2920  SIZE: 4-24 COLOR: PURPLE  BLACK  WHITE  IVORY  NAVY  RED ",
+   "text": "2920\r\rSIZE: 4-24\rCOLOR:\rPURPLE \rBLACK \rWHITE \rIVORY \rNAVY \rRED  \r\r>2PC\rFRENCH CREPE\rSKIRT SUIT\rW/ COVER\rBUTTONS\r",
+   "bbox": [
+    85,
+    2080,
+    427,
+    2752
+   ]
+  },
+  {
+   "layer": "4529  SIZE: 4-24 COLOR: DARK RED PURPLE  BROWN  MANGO BLACK  WH",
+   "text": "4529\r\rSIZE: 4-24\rCOLOR:\rDARK RED\rPURPLE \rBROWN \rMANGO\rBLACK \rWHITE \rIVORY \rNAVY\r\r>2PC\rFRENCH CREPE\rSKIRT SUIT\rW/ COVER BUTTONS ",
+   "bbox": [
+    1026,
+    2080,
+    1466,
+    2794
+   ]
+  },
+  {
+   "layer": "3895   SIZE: 4-24 COLOR: PINK (H102) BLACK  WHITE  RED WINE  NA",
+   "text": "3895\t\r\rSIZE: 4-24\rCOLOR:\rPINK (H102)\rBLACK \rWHITE \rRED\rWINE \rNAVY\rLIME \rIVORY \r\r>3PC\rFRENCH CREPE\rSKIRT SUIT\rW/ RHINESTONE\rBUTTON",
+   "bbox": [
+    1968,
+    2080,
+    2318,
+    2836
+   ]
+  }
+ ]
+}
