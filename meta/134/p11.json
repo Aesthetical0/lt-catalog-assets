@@ -1,0 +1,103 @@
+{
+ "catalog": "134",
+ "page": 11,
+ "file": "134_11.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "Left Model",
+   "layer": "Layer 8",
+   "kind": "smartobject",
+   "orig_size": [
+    1476,
+    3389
+   ],
+   "bbox": [
+    -204,
+    386,
+    1272,
+    3808
+   ],
+   "image": "images/134/p11_Left_Model.jpg",
+   "out_size": [
+    871,
+    2000
+   ]
+  },
+  {
+   "group": "Center Model",
+   "layer": "Layer 9",
+   "kind": "smartobject",
+   "orig_size": [
+    1200,
+    3543
+   ],
+   "bbox": [
+    803,
+    232,
+    2003,
+    3775
+   ],
+   "image": "images/134/p11_Center_Model.jpg",
+   "out_size": [
+    677,
+    2000
+   ]
+  },
+  {
+   "group": "Right Model",
+   "layer": "Layer 10",
+   "kind": "smartobject",
+   "orig_size": [
+    1489,
+    3387
+   ],
+   "bbox": [
+    1556,
+    387,
+    3045,
+    3774
+   ],
+   "image": "images/134/p11_Right_Model.jpg",
+   "out_size": [
+    879,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5149  SIZE: 6-24 COLOR: IVORY FLORAL  >FINE CHIFFON DRESS W/ RE",
+   "text": "5149\r\rSIZE: 6-24\rCOLOR:\rIVORY FLORAL\r\r>FINE\rCHIFFON DRESS\rW/ REMOVEABLE\rBUCKLE BELT",
+   "bbox": [
+    610,
+    3336,
+    1096,
+    3895
+   ]
+  },
+  {
+   "layer": "5173  SIZE: S/M, L/XL, 2XL/3XL COLOR: GREEN/MULTI (H121)  >2PC ",
+   "text": "5173\r\rSIZE: S/M, L/XL, 2XL/3XL\rCOLOR:\rGREEN/MULTI (H121)\r\r>2PC FINE\rPLEATED SKIRT\r& BLOUSE ",
+   "bbox": [
+    1182,
+    3113,
+    1852,
+    3616
+   ]
+  },
+  {
+   "layer": "4988  SIZE: L/XL, 2XL/3XL COLOR: NAVY (4-22) BLACK (4-24)  >STR",
+   "text": "4988\r\rSIZE: L/XL, 2XL/3XL\rCOLOR:\rNAVY (4-22)\rBLACK (4-24)\r\r>STRETCH\rDENIM DRESS\rW/ CONTRAST\rSTITCH ON\rTHE COLLAR\r& REMOVEABLE BELT",
+   "bbox": [
+    2085,
+    2775,
+    2703,
+    3503
+   ]
+  }
+ ]
+}

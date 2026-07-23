@@ -1,0 +1,103 @@
+{
+ "catalog": "134",
+ "page": 14,
+ "file": "134_14.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "Right Model",
+   "layer": "Layer 22",
+   "kind": "smartobject",
+   "orig_size": [
+    1268,
+    3478
+   ],
+   "bbox": [
+    1677,
+    269,
+    2945,
+    3754
+   ],
+   "image": "images/134/p14_Right_Model.jpg",
+   "out_size": [
+    729,
+    2000
+   ]
+  },
+  {
+   "group": "Center Model",
+   "layer": "Layer 21",
+   "kind": "smartobject",
+   "orig_size": [
+    1282,
+    3536
+   ],
+   "bbox": [
+    755,
+    216,
+    2037,
+    3769
+   ],
+   "image": "images/134/p14_Center_Model.jpg",
+   "out_size": [
+    725,
+    2000
+   ]
+  },
+  {
+   "group": "Left Model",
+   "layer": "Layer 18",
+   "kind": "smartobject",
+   "orig_size": [
+    1346,
+    3533
+   ],
+   "bbox": [
+    -21,
+    216,
+    1325,
+    3754
+   ],
+   "image": "images/134/p14_Left_Model.jpg",
+   "out_size": [
+    762,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "4870  SIZE: 4-24 COLOR: ROYAL BLUE/MULTI (H945)  >3PC SILKY TWI",
+   "text": "4870\r\rSIZE: 4-24\rCOLOR:\rROYAL BLUE/MULTI (H945)\r\r>3PC\rSILKY TWILL\rSKIRT SUIT\rW/ RHINESTONE\rCLOSURE",
+   "bbox": [
+    132,
+    3001,
+    882,
+    3616
+   ]
+  },
+  {
+   "layer": "4682  SIZE: 4-24 COLOR: WHITE  LIGHT FUCHSIA (H747)   >FRENCH C",
+   "text": "4682\r\rSIZE: 4-24\rCOLOR:\rWHITE \rLIGHT FUCHSIA (H747) \r\r>FRENCH\rCREPE DRESS\rW/ RHINESTONE\rSLEEVES\r& NECKLINE ",
+   "bbox": [
+    1000,
+    2639,
+    1636,
+    3310
+   ]
+  },
+  {
+   "layer": "4820  SIZE: 4-24 COLOR: BLACK/MULTI  >2PC SILKY TWILL PANT SUIT",
+   "text": "4820\r\rSIZE: 4-24\rCOLOR:\rBLACK/MULTI\r\r>2PC\rSILKY TWILL\rPANT SUIT\rW/ RHINESTONE\rBUTTONS\rAND BROOCH ",
+   "bbox": [
+    2293,
+    2736,
+    2760,
+    3408
+   ]
+  }
+ ]
+}

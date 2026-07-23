@@ -1,0 +1,103 @@
+{
+ "catalog": "134",
+ "page": 13,
+ "file": "134_13.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "Left Model",
+   "layer": "Layer 19",
+   "kind": "smartobject",
+   "orig_size": [
+    881,
+    3563
+   ],
+   "bbox": [
+    101,
+    336,
+    1016,
+    3899
+   ],
+   "image": "images/134/p13_Left_Model.jpg",
+   "out_size": [
+    495,
+    2000
+   ]
+  },
+  {
+   "group": "Center Model",
+   "layer": "Layer 21",
+   "kind": "smartobject",
+   "orig_size": [
+    1382,
+    3473
+   ],
+   "bbox": [
+    687,
+    462,
+    2069,
+    3935
+   ],
+   "image": "images/134/p13_Center_Model.jpg",
+   "out_size": [
+    796,
+    2000
+   ]
+  },
+  {
+   "group": "Right Model",
+   "layer": "Layer 20",
+   "kind": "smartobject",
+   "orig_size": [
+    989,
+    3815
+   ],
+   "bbox": [
+    1698,
+    74,
+    2888,
+    3907
+   ],
+   "image": "images/134/p13_Right_Model.jpg",
+   "out_size": [
+    518,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "3219  SIZE: 4-24 COLOR: WHITE (H203) BLACK   >2PC SILKY TWILL S",
+   "text": "3219\r\rSIZE: 4-24\rCOLOR:\rWHITE (H203)\rBLACK \r\r>2PC\rSILKY TWILL\rSKIRT SUIT\rW/ RHINESTONE\rNECKLINE & SLEEVES ",
+   "bbox": [
+    151,
+    3073,
+    776,
+    3745
+   ]
+  },
+  {
+   "layer": "5180  SIZE: 4-24 COLOR: BLUE/MULTI PINK/MULTI GREEN/MULTI   >2P",
+   "text": "5180\r\rSIZE: 4-24\rCOLOR:\rBLUE/MULTI\rPINK/MULTI\rGREEN/MULTI \r\r>2PC ELEGANT\rSHIMMER NOVELTY\rSKIRT SUIT\rW/ RHINESTONE\rBUTTONS ",
+   "bbox": [
+    980,
+    3017,
+    1543,
+    3745
+   ]
+  },
+  {
+   "layer": "5186  SIZE: 4-24 COLOR: GOLD  BLACK (H173) SKY BLUE   >2PC LIGH",
+   "text": "5186\r\rSIZE: 4-24\rCOLOR:\rGOLD \rBLACK (H173)\rSKY BLUE \r\r>2PC LIGHT\rSEQUIN LACE\rW/ ZIPPER\rFRONT JACKET ",
+   "bbox": [
+    1747,
+    3167,
+    2186,
+    3838
+   ]
+  }
+ ]
+}

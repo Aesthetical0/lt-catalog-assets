@@ -1,0 +1,73 @@
+{
+ "catalog": "134",
+ "page": 12,
+ "file": "134_12.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "Left Model",
+   "layer": "Layer 20",
+   "kind": "smartobject",
+   "orig_size": [
+    1637,
+    3817
+   ],
+   "bbox": [
+    -78,
+    73,
+    1559,
+    4260
+   ],
+   "image": "images/134/p12_Left_Model.jpg",
+   "out_size": [
+    858,
+    2000
+   ]
+  },
+  {
+   "group": "Right Model",
+   "layer": "Layer 21",
+   "kind": "smartobject",
+   "orig_size": [
+    1223,
+    3817
+   ],
+   "bbox": [
+    1573,
+    73,
+    2906,
+    4260
+   ],
+   "image": "images/134/p12_Right_Model.jpg",
+   "out_size": [
+    641,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "4858  SIZE: 4-24 COLOR: WHITE (H448)             >LIGHT JACQUAR",
+   "text": "4858\r\rSIZE: 4-24\rCOLOR:\rWHITE (H448)\r           \r>LIGHT\rJACQUARD DRESS\rW/ RUFFLE SLEEVES\r& RHINESTONE BROOCH ",
+   "bbox": [
+    155,
+    2989,
+    860,
+    3548
+   ]
+  },
+  {
+   "layer": "4092  SIZE: 4-24 COLOR: WHITE BLACK  ROYAL BLUE PINK (H156) RED",
+   "text": "4092\r\rSIZE: 4-24\rCOLOR:\rWHITE\rBLACK \rROYAL BLUE\rPINK (H156)\rRED \rTEAL \r           \r>FRENCH\rCREPE DRESS\rW/ RHINESTONE\rSLEEVES\r& BROOCH ",
+   "bbox": [
+    1512,
+    2657,
+    1978,
+    3554
+   ]
+  }
+ ]
+}
