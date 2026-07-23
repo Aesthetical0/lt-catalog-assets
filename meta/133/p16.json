@@ -1,0 +1,93 @@
+{
+ "catalog": "133",
+ "page": 16,
+ "file": "133_16.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "background",
+   "layer": "图层 3",
+   "kind": "pixel",
+   "orig_size": [
+    2906,
+    3969
+   ],
+   "bbox": [
+    0,
+    0,
+    2906,
+    3969
+   ],
+   "image": "images/133/p16_background.jpg",
+   "out_size": [
+    1464,
+    2000
+   ]
+  },
+  {
+   "group": "4962",
+   "layer": "Layer 32",
+   "kind": "smartobject",
+   "orig_size": [
+    1195,
+    3822
+   ],
+   "bbox": [
+    259,
+    72,
+    1454,
+    3927
+   ],
+   "image": "images/133/p16_4962.jpg",
+   "out_size": [
+    625,
+    2000
+   ]
+  },
+  {
+   "group": "5108",
+   "layer": "Layer 33",
+   "kind": "smartobject",
+   "orig_size": [
+    1124,
+    3824
+   ],
+   "bbox": [
+    1454,
+    72,
+    2717,
+    3896
+   ],
+   "image": "images/133/p16_5108.jpg",
+   "out_size": [
+    588,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "4962  SIZE: 4-24 COLOR: LAVENDER/SILVER ROSE/GOLD (H137)    >LI",
+   "text": "4962\r\rSIZE: 4-24\rCOLOR:\rLAVENDER/SILVER\rROSE/GOLD (H137) \r \r>LIGHT\rJACQUARD DRESS\rW/ BOW ON\rSHOULDER\rW/ RHINESTONE\rBUCKLE ON BOW \r\r",
+   "bbox": [
+    153,
+    2926,
+    693,
+    3654
+   ]
+  },
+  {
+   "layer": "5108  SIZE: 8-20 COLOR: OFF WHITE  MAUVE (H132) SAGE   >FINE OR",
+   "text": "5108\r\rSIZE: 8-20\rCOLOR:\rOFF WHITE \rMAUVE (H132)\rSAGE \r\r>FINE ORGANZA\rJACQUARD DRESS\rW/ REMOVEABLE\rBELT \r",
+   "bbox": [
+    1524,
+    2926,
+    2059,
+    3597
+   ]
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "catalog": "133",
+ "page": 15,
+ "file": "133_15.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "OVAL",
+   "layer": "Layer 20",
+   "kind": "smartobject",
+   "orig_size": [
+    1213,
+    2846
+   ],
+   "bbox": [
+    900,
+    1792,
+    2113,
+    4638
+   ],
+   "image": "images/133/p15_OVAL.jpg",
+   "out_size": [
+    852,
+    2000
+   ]
+  },
+  {
+   "group": "5163",
+   "layer": "Layer 19",
+   "kind": "smartobject",
+   "orig_size": [
+    996,
+    3817
+   ],
+   "bbox": [
+    1463,
+    74,
+    2652,
+    3956
+   ],
+   "image": "images/133/p15_5163.jpg",
+   "out_size": [
+    522,
+    2000
+   ]
+  },
+  {
+   "group": "5158",
+   "layer": "Layer 18",
+   "kind": "smartobject",
+   "orig_size": [
+    1141,
+    3822
+   ],
+   "bbox": [
+    123,
+    74,
+    1264,
+    3929
+   ],
+   "image": "images/133/p15_5158.jpg",
+   "out_size": [
+    597,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5163  SIZE: 4-22 COLOR: PINK (H156) MINT (H397)  >FINE LIGHT CH",
+   "text": "5163\r\rSIZE: 4-22\rCOLOR:\rPINK (H156)\rMINT (H397)\r\r>FINE LIGHT\rCHIFFON DRESS\rW/ REMOVEABLE\rMOTHER OF PEARL\rBUCKLE BELT ",
+   "bbox": [
+    133,
+    2897,
+    689,
+    3569
+   ]
+  },
+  {
+   "layer": "5158  SIZE: 6-22 COLOR: CANARY (H152)  >FINE LINEN FEEL SEQUIN ",
+   "text": "5158\r\rSIZE: 6-22\rCOLOR:\rCANARY (H152)\r\r>FINE\rLINEN FEEL\rSEQUIN DRESS\rW/ POCKETS\rAND REMOVEABLE\rBELT \r",
+   "bbox": [
+    2251,
+    3042,
+    2789,
+    3713
+   ]
+  }
+ ]
+}

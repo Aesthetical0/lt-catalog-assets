@@ -1,0 +1,43 @@
+{
+ "catalog": "133",
+ "page": 13,
+ "file": "133_13.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "5177",
+   "layer": "Layer 19",
+   "kind": "smartobject",
+   "orig_size": [
+    1049,
+    3827
+   ],
+   "bbox": [
+    929,
+    72,
+    1978,
+    3946
+   ],
+   "image": "images/133/p13_5177.jpg",
+   "out_size": [
+    548,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5177  SIZE: 4-24 COLOR: BLACK/WHITE (H174) WHITE/WHITE  CANARY ",
+   "text": "5177\r\rSIZE: 4-24\rCOLOR:\rBLACK/WHITE (H174)\rWHITE/WHITE \rCANARY\r\r>3PC\rUPSCALE NOVELTY\rSKIRT SUIT\rW/ COUTURE\rCLOSURE\r& BROOCH ",
+   "bbox": [
+    687,
+    2890,
+    1275,
+    3674
+   ]
+  }
+ ]
+}

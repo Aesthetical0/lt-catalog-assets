@@ -1,0 +1,83 @@
+{
+ "catalog": "133",
+ "page": 14,
+ "file": "133_14.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "OVAL",
+   "layer": "Layer 19",
+   "kind": "smartobject",
+   "orig_size": [
+    1152,
+    2820
+   ],
+   "bbox": [
+    856,
+    1823,
+    2008,
+    4643
+   ],
+   "image": "images/133/p14_OVAL.jpg",
+   "out_size": [
+    817,
+    2000
+   ]
+  },
+  {
+   "group": "5179-L",
+   "layer": "Layer 18",
+   "kind": "smartobject",
+   "orig_size": [
+    1332,
+    3821
+   ],
+   "bbox": [
+    1460,
+    73,
+    2792,
+    3932
+   ],
+   "image": "images/133/p14_5179-L.jpg",
+   "out_size": [
+    697,
+    2000
+   ]
+  },
+  {
+   "group": "5179-R",
+   "layer": "Layer 17",
+   "kind": "smartobject",
+   "orig_size": [
+    1227,
+    3818
+   ],
+   "bbox": [
+    154,
+    73,
+    1381,
+    3907
+   ],
+   "image": "images/133/p14_5179-R.jpg",
+   "out_size": [
+    643,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5179  SIZE: 4-24 COLOR: GOLD (H166) (B132) MINT (H166) PINK (H1",
+   "text": "5179\r\rSIZE: 4-24\rCOLOR:\rGOLD (H166) (B132)\rMINT (H166)\rPINK (H166)\r\r>FINE\rJACQUARD DRESS\rW/ RHINESTONE\rBROOCH ",
+   "bbox": [
+    155,
+    2861,
+    704,
+    3533
+   ]
+  }
+ ]
+}
