@@ -1,0 +1,103 @@
+{
+ "catalog": "134",
+ "page": 23,
+ "file": "134_23.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "Left Model",
+   "layer": "Layer 16",
+   "kind": "smartobject",
+   "orig_size": [
+    1430,
+    3646
+   ],
+   "bbox": [
+    -150,
+    162,
+    1280,
+    3808
+   ],
+   "image": "images/134/p23_Left_Model.jpg",
+   "out_size": [
+    784,
+    2000
+   ]
+  },
+  {
+   "group": "Center Model",
+   "layer": "Layer 17",
+   "kind": "smartobject",
+   "orig_size": [
+    1058,
+    3645
+   ],
+   "bbox": [
+    926,
+    162,
+    1984,
+    3807
+   ],
+   "image": "images/134/p23_Center_Model.jpg",
+   "out_size": [
+    581,
+    2000
+   ]
+  },
+  {
+   "group": "Right Model",
+   "layer": "Layer 18",
+   "kind": "smartobject",
+   "orig_size": [
+    1112,
+    3651
+   ],
+   "bbox": [
+    1753,
+    162,
+    2874,
+    3813
+   ],
+   "image": "images/134/p23_Right_Model.jpg",
+   "out_size": [
+    609,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "887  SIZE: S-4X COLOR: PURPLE (H130) KIWI  >2PC FINE RIBBED KNI",
+   "text": "887\r\rSIZE: S-4X\rCOLOR:\rPURPLE (H130)\rKIWI\r\r>2PC FINE\rRIBBED KNIT\rSKIRT SUIT\rW/ ZIPPERED\rJACKET ",
+   "bbox": [
+    120,
+    2957,
+    546,
+    3629
+   ]
+  },
+  {
+   "layer": "833  SIZE: S-4X COLOR: KIWI WHITE (H927)(B127) BLACK   >3PC FIN",
+   "text": "833\r\rSIZE: S-4X\rCOLOR:\rKIWI\rWHITE (H927)(B127)\rBLACK \r\r>3PC FINE\rCROCHET KNIT\rSKIRT SUIT\rW/ RUFFLE\rCARDIGAN\rAND VEST ",
+   "bbox": [
+    1025,
+    2823,
+    1582,
+    3607
+   ]
+  },
+  {
+   "layer": "842  SIZE: S-4X COLOR: BLACK  FUCHSIA (H129)  >3PC FINE CROCHET",
+   "text": "842\r\rSIZE: S-4X\rCOLOR:\rBLACK \rFUCHSIA (H129)\r\r>3PC\rFINE CROCHET\rSKIRT SUIT\rW/ RHINESTONE\rBUTTONS ",
+   "bbox": [
+    1780,
+    2822,
+    2247,
+    3494
+   ]
+  }
+ ]
+}
