@@ -1,0 +1,103 @@
+{
+ "catalog": "134",
+ "page": 28,
+ "file": "134_28.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "Left Model",
+   "layer": "Layer 12",
+   "kind": "smartobject",
+   "orig_size": [
+    1573,
+    3552
+   ],
+   "bbox": [
+    560,
+    226,
+    2166,
+    4176
+   ],
+   "image": "images/134/p28_Left_Model.jpg",
+   "out_size": [
+    886,
+    2000
+   ]
+  },
+  {
+   "group": "Center Model",
+   "layer": "Layer 25",
+   "kind": "smartobject",
+   "orig_size": [
+    1342,
+    3613
+   ],
+   "bbox": [
+    -186,
+    228,
+    1156,
+    3841
+   ],
+   "image": "images/134/p28_Center_Model.jpg",
+   "out_size": [
+    743,
+    2000
+   ]
+  },
+  {
+   "group": "Right Model",
+   "layer": "Layer 24",
+   "kind": "smartobject",
+   "orig_size": [
+    1134,
+    3538
+   ],
+   "bbox": [
+    1786,
+    228,
+    2974,
+    4126
+   ],
+   "image": "images/134/p28_Right_Model.jpg",
+   "out_size": [
+    641,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "4985  SIZE: 4-24 COLOR: BLACK (H121) (B126) RED  >FRENCH CREPE ",
+   "text": "4985\r\rSIZE: 4-24\rCOLOR:\rBLACK (H121) (B126)\rRED\r\r>FRENCH\rCREPE DRESS\rW/ TULIP SLEEVE",
+   "bbox": [
+    124,
+    2798,
+    699,
+    3357
+   ]
+  },
+  {
+   "layer": "5005  SIZE: 4-20 COLOR: RED (H151) NAVY  >FRENCH CREPE DRESS W/",
+   "text": "5005\r\rSIZE: 4-20\rCOLOR:\rRED (H151)\rNAVY\r\r>FRENCH\rCREPE DRESS\rW/ DRAMATIC\rWRAP",
+   "bbox": [
+    888,
+    2767,
+    1303,
+    3382
+   ]
+  },
+  {
+   "layer": "4999  SIZE: 4-22 COLOR: NAVY (H137) (B132)  >FRENCH CREPE DRESS",
+   "text": "4999\r\rSIZE: 4-22\rCOLOR:\rNAVY (H137) (B132)\r\r>FRENCH\rCREPE DRESS\rW/ DRAMATIC\rSLEEVES ",
+   "bbox": [
+    1824,
+    2764,
+    2367,
+    3323
+   ]
+  }
+ ]
+}

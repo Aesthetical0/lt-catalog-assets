@@ -1,0 +1,103 @@
+{
+ "catalog": "134",
+ "page": 29,
+ "file": "134_29.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "Right Model",
+   "layer": "Layer 16",
+   "kind": "smartobject",
+   "orig_size": [
+    1046,
+    3651
+   ],
+   "bbox": [
+    1757,
+    166,
+    2999,
+    3868
+   ],
+   "image": "images/134/p29_Right_Model.jpg",
+   "out_size": [
+    573,
+    2000
+   ]
+  },
+  {
+   "group": "Cetner Model",
+   "layer": "Layer 13",
+   "kind": "smartobject",
+   "orig_size": [
+    1321,
+    3564
+   ],
+   "bbox": [
+    710,
+    258,
+    2076,
+    3822
+   ],
+   "image": "images/134/p29_Cetner_Model.jpg",
+   "out_size": [
+    741,
+    2000
+   ]
+  },
+  {
+   "group": "Left Model",
+   "layer": "Layer 16",
+   "kind": "smartobject",
+   "orig_size": [
+    1209,
+    3652
+   ],
+   "bbox": [
+    -62,
+    166,
+    1512,
+    4231
+   ],
+   "image": "images/134/p29_Left_Model.jpg",
+   "out_size": [
+    662,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5027  SIZE: 4-20 COLOR: INDIGO DARK NAVY (H121)  >STRETCH DENIM",
+   "text": "5027\r\rSIZE: 4-20\rCOLOR:\rINDIGO\rDARK NAVY (H121)\r\r>STRETCH\rDENIM DRESS\rW/ CONTRAST\rSTITCH TRIM AND\rREMOVEABLE BELT ",
+   "bbox": [
+    1953,
+    3026,
+    2516,
+    3697
+   ]
+  },
+  {
+   "layer": "5039  SIZE: 4-24 COLOR: WHITE  CANARY  >FINE LACE DRESS W/ BUTT",
+   "text": "5039\r\rSIZE: 4-24\rCOLOR:\rWHITE \rCANARY\r\r>FINE\rLACE DRESS\rW/ BUTTON\rDOWN FRONT ",
+   "bbox": [
+    1106,
+    3055,
+    1507,
+    3670
+   ]
+  },
+  {
+   "layer": "4992  SIZE: 6-20 COLOR: NAVY WHITE  ORANGE (H130)  >FINE EYELET",
+   "text": "4992\r\rSIZE: 6-20\rCOLOR:\rNAVY\rWHITE \rORANGE (H130)\r\r>FINE\rEYELET DRESS\rW/ BISHOP SLEEVES ",
+   "bbox": [
+    88,
+    2900,
+    675,
+    3515
+   ]
+  }
+ ]
+}

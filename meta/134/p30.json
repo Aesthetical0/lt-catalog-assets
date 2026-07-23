@@ -1,0 +1,153 @@
+{
+ "catalog": "134",
+ "page": 30,
+ "file": "134_30.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "Group 1",
+   "layer": "Layer 53",
+   "kind": "smartobject",
+   "orig_size": [
+    1572,
+    1540
+   ],
+   "bbox": [
+    -156,
+    211,
+    2909,
+    4273
+   ],
+   "image": "images/134/p30_Group_1.jpg",
+   "out_size": [
+    1572,
+    1540
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "A01 WHITE     ",
+   "text": "A01\rWHITE\r\r\r\r\r",
+   "bbox": [
+    197,
+    234,
+    303,
+    316
+   ]
+  },
+  {
+   "layer": "H121 ICE GREEN ROYAL BLUE BROWN CORAL GOLD LAVENDER FUCHSIA LIL",
+   "text": "H121\rICE GREEN\rROYAL BLUE\rBROWN\rCORAL\rGOLD\rLAVENDER\rFUCHSIA\rLILAC\rKIWI\rIVORY     \rBLACK\rPURPLE\rYELLOW\rSILVER\rRED\rNAVY\rHUNTER\rWHITE\rPINK\rICE BLUE\rEMERALD\rORANGE\r\r\r\r\r\r\r\r",
+   "bbox": [
+    1062,
+    246,
+    1245,
+    1053
+   ]
+  },
+  {
+   "layer": "H129 ROYAL BLUE LAVENDER BLACK WHITE PINK ORANGE PURPLE GOLD SI",
+   "text": "H129\rROYAL BLUE\rLAVENDER\rBLACK\rWHITE\rPINK\rORANGE\rPURPLE\rGOLD\rSILVER\rPURPLE\rGOLD\rFUCHSIA\rYELLOW\r\r",
+   "bbox": [
+    1934,
+    252,
+    2142,
+    883
+   ]
+  },
+  {
+   "layer": "H130 SILVER BLACK LILAC ORANGE YELLOW WHITE NAVY LAVENDER WINE ",
+   "text": "H130\rSILVER\rBLACK\rLILAC\rORANGE\rYELLOW\rWHITE\rNAVY\rLAVENDER\rWINE\rPURPLE\rIVORY\rHONEY\r\r\r",
+   "bbox": [
+    188,
+    1145,
+    367,
+    1731
+   ]
+  },
+  {
+   "layer": "H129 NAVY BLUSH WHITE SILVER IVORY ROYAL BLUE MINT CANARY PINK ",
+   "text": "H129\rNAVY\rBLUSH\rWHITE\rSILVER\rIVORY\rROYAL BLUE\rMINT\rCANARY\rPINK\rPURPLE\rMOCHA\rFUCHSIA\rGOLD\rRED\rORANGE\rICE BLUE\rTURQUOISE\rEMERALD\r",
+   "bbox": [
+    1062,
+    1145,
+    1270,
+    1900
+   ]
+  },
+  {
+   "layer": "H137 BLACK APPLE GREEN ROYAL BLUE YELLOW PINK LAVENDER GOLD SIL",
+   "text": "H137\rBLACK\rAPPLE GREEN\rROYAL BLUE\rYELLOW\rPINK\rLAVENDER\rGOLD\rSILVER\rRED\rWHITE\r",
+   "bbox": [
+    1933,
+    1146,
+    2167,
+    1640
+   ]
+  },
+  {
+   "layer": "H151 BLACK IVORY EMERALD RED  ",
+   "text": "H151\rBLACK\rIVORY\rEMERALD\rRED\r\r",
+   "bbox": [
+    191,
+    2044,
+    349,
+    2240
+   ]
+  },
+  {
+   "layer": "H152 CHAMPAGNE CANARY MAUVE   ",
+   "text": "H152\rCHAMPAGNE\rCANARY\rMAUVE\r\r\r",
+   "bbox": [
+    1061,
+    2052,
+    1274,
+    2226
+   ]
+  },
+  {
+   "layer": "H154 RED BLACK SILVER  ",
+   "text": "H154\rRED\rBLACK\rSILVER\r\r",
+   "bbox": [
+    1935,
+    2051,
+    2053,
+    2225
+   ]
+  },
+  {
+   "layer": "H156 BURN ORANGE GOLD BLACK SILVER SILVER WHITE EMERALD PURPLE ",
+   "text": "H156\rBURN ORANGE\rGOLD\rBLACK\rSILVER\rSILVER\rWHITE\rEMERALD\rPURPLE\rBROWN\rPINK\rRED\rWHITE\r",
+   "bbox": [
+    190,
+    2951,
+    437,
+    3536
+   ]
+  },
+  {
+   "layer": "H164 BLACK WHITE PINK CANARY ROYAL    ",
+   "text": "H164\rBLACK\rWHITE\rPINK\rCANARY\rROYAL\r\r\r\r",
+   "bbox": [
+    1060,
+    2940,
+    1199,
+    3206
+   ]
+  },
+  {
+   "layer": "H175 GOLD/BLACK SILVER LAVENDER FUCSHIA ORANGE WHITE GREEN PINK",
+   "text": "H175\rGOLD/BLACK\rSILVER\rLAVENDER\rFUCSHIA\rORANGE\rWHITE\rGREEN\rPINK\r\r\r",
+   "bbox": [
+    1934,
+    2940,
+    2148,
+    3343
+   ]
+  }
+ ]
+}
