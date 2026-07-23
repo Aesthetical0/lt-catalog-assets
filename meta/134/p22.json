@@ -1,0 +1,73 @@
+{
+ "catalog": "134",
+ "page": 22,
+ "file": "134_22.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "Left Model",
+   "layer": "Layer 15",
+   "kind": "smartobject",
+   "orig_size": [
+    1047,
+    3718
+   ],
+   "bbox": [
+    258,
+    170,
+    1305,
+    3888
+   ],
+   "image": "images/134/p22_Left_Model.jpg",
+   "out_size": [
+    563,
+    2000
+   ]
+  },
+  {
+   "group": "Right Model",
+   "layer": "Layer 16",
+   "kind": "smartobject",
+   "orig_size": [
+    1373,
+    3822
+   ],
+   "bbox": [
+    1465,
+    72,
+    2948,
+    3894
+   ],
+   "image": "images/134/p22_Right_Model.jpg",
+   "out_size": [
+    718,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5145  SIZE: 4-24 COLOR: LILAC (H169) WHITE BLACK  >3PC MESH LAC",
+   "text": "5145\r\rSIZE: 4-24\rCOLOR:\rLILAC (H169)\rWHITE\rBLACK\r\r>3PC\rMESH LACE\rSKIRT SUIT\rADORN\rW/ ALLOVER\rROSETTES\rW/ RHINESTONES",
+   "bbox": [
+    156,
+    2797,
+    663,
+    3637
+   ]
+  },
+  {
+   "layer": "4994  SIZE: 4-20 COLOR: BLUE/MULTI (H121) WHITE   >FINE EYELET ",
+   "text": "4994\r\rSIZE: 4-20\rCOLOR:\rBLUE/MULTI (H121)\rWHITE \r\r>FINE\rEYELET DRESS\rW/ DOUBLE\rBUTTERFLY SLEEVE ",
+   "bbox": [
+    1465,
+    3021,
+    2045,
+    3636
+   ]
+  }
+ ]
+}

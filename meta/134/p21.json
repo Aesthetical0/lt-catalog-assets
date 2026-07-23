@@ -1,0 +1,93 @@
+{
+ "catalog": "134",
+ "page": 21,
+ "file": "134_21.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "OVAL",
+   "layer": "Layer 21",
+   "kind": "smartobject",
+   "orig_size": [
+    1550,
+    3110
+   ],
+   "bbox": [
+    660,
+    1798,
+    2210,
+    4908
+   ],
+   "image": "images/134/p21_OVAL.jpg",
+   "out_size": [
+    997,
+    2000
+   ]
+  },
+  {
+   "group": "Right Model",
+   "layer": "Layer 20",
+   "kind": "smartobject",
+   "orig_size": [
+    1157,
+    3822
+   ],
+   "bbox": [
+    1645,
+    74,
+    2824,
+    3896
+   ],
+   "image": "images/134/p21_Right_Model.jpg",
+   "out_size": [
+    605,
+    2000
+   ]
+  },
+  {
+   "group": "Left Model",
+   "layer": "Layer 19",
+   "kind": "smartobject",
+   "orig_size": [
+    1172,
+    3825
+   ],
+   "bbox": [
+    145,
+    72,
+    1317,
+    3897
+   ],
+   "image": "images/134/p21_Left_Model.jpg",
+   "out_size": [
+    613,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5037  SIZE: 4-24  COLOR: WHITE  BLACK (H851)  BURNT ORANGE   >L",
+   "text": "5037\r\rSIZE: 4-24 \rCOLOR:\rWHITE \rBLACK (H851) \rBURNT ORANGE \r\r>LACE\rCHIFFON DRESS\rW/ CHIFFON\rLACE CUFF\rSLEEVES ",
+   "bbox": [
+    294,
+    2811,
+    767,
+    3538
+   ]
+  },
+  {
+   "layer": "4978  SIZE: 4-22 COLOR: DARK YELLOW  ORANGE (H130)  >FRENCH CRE",
+   "text": "4978\r\rSIZE: 4-22\rCOLOR:\rDARK YELLOW \rORANGE (H130)\r\r>FRENCH\rCREPE DRESS\rW/ DRAMATIC\rBACK DROP\rNECKLINE ",
+   "bbox": [
+    2311,
+    3010,
+    2757,
+    3681
+   ]
+  }
+ ]
+}

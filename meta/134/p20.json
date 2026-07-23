@@ -1,0 +1,103 @@
+{
+ "catalog": "134",
+ "page": 20,
+ "file": "134_20.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "Left Model",
+   "layer": "Layer 12",
+   "kind": "smartobject",
+   "orig_size": [
+    1466,
+    3677
+   ],
+   "bbox": [
+    -91,
+    216,
+    1407,
+    3893
+   ],
+   "image": "images/134/p20_Left_Model.jpg",
+   "out_size": [
+    797,
+    2000
+   ]
+  },
+  {
+   "group": "Center Model",
+   "layer": "Layer 13",
+   "kind": "smartobject",
+   "orig_size": [
+    1049,
+    3813
+   ],
+   "bbox": [
+    1042,
+    72,
+    2091,
+    3894
+   ],
+   "image": "images/134/p20_Center_Model.jpg",
+   "out_size": [
+    550,
+    2000
+   ]
+  },
+  {
+   "group": "Group 4",
+   "layer": "Layer 14",
+   "kind": "smartobject",
+   "orig_size": [
+    1031,
+    3615
+   ],
+   "bbox": [
+    1830,
+    277,
+    2870,
+    3892
+   ],
+   "image": "images/134/p20_Group_4.jpg",
+   "out_size": [
+    570,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5111   SIZE: 4-24 COLOR: HUNTER  TURQUOISE   >FINE LIGHT JACQUA",
+   "text": "5111 \r\rSIZE: 4-24\rCOLOR:\rHUNTER \rTURQUOISE \r\r>FINE LIGHT\rJACQUARD DRESS\rW/ REMOVEABLE BELT ",
+   "bbox": [
+    307,
+    3216,
+    957,
+    3775
+   ]
+  },
+  {
+   "layer": "5041  SIZE: 4-24 COLOR: WHITE  ICE PINK (H176)  >LACE DRESS W/ ",
+   "text": "5041\r\rSIZE: 4-24\rCOLOR:\rWHITE \rICE PINK (H176)\r\r>LACE DRESS\rW/ FLUTTER\rCAP SLEEVES ",
+   "bbox": [
+    1346,
+    3267,
+    1788,
+    3826
+   ]
+  },
+  {
+   "layer": "4993  SIZE: 4-20 COLOR: WHITE  FUCHSIA TURQUOISE   >FINE EYELET",
+   "text": "4993\r\rSIZE: 4-20\rCOLOR:\rWHITE \rFUCHSIA\rTURQUOISE \r\r>FINE\rEYELET DRESS\rW/ ANGEL SLEEVES",
+   "bbox": [
+    2091,
+    3210,
+    2655,
+    3825
+   ]
+  }
+ ]
+}

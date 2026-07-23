@@ -1,0 +1,103 @@
+{
+ "catalog": "134",
+ "page": 19,
+ "file": "134_19.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "Center Model",
+   "layer": "Layer 28",
+   "kind": "smartobject",
+   "orig_size": [
+    1505,
+    3608
+   ],
+   "bbox": [
+    492,
+    250,
+    2194,
+    3858
+   ],
+   "image": "images/134/p19_Center_Model.jpg",
+   "out_size": [
+    834,
+    2000
+   ]
+  },
+  {
+   "group": "Left Model",
+   "layer": "Layer 27",
+   "kind": "smartobject",
+   "orig_size": [
+    1415,
+    3609
+   ],
+   "bbox": [
+    -216,
+    249,
+    1199,
+    3858
+   ],
+   "image": "images/134/p19_Left_Model.jpg",
+   "out_size": [
+    784,
+    2000
+   ]
+  },
+  {
+   "group": "Right Model",
+   "layer": "Layer 29",
+   "kind": "smartobject",
+   "orig_size": [
+    1043,
+    3603
+   ],
+   "bbox": [
+    1785,
+    250,
+    2863,
+    3853
+   ],
+   "image": "images/134/p19_Right_Model.jpg",
+   "out_size": [
+    579,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "4960  SIZE: 4-24 COLOR: BLACK/GOLD (H175) LAVENDER/GOLD    >LIG",
+   "text": "4960\r\rSIZE: 4-24\rCOLOR:\rBLACK/GOLD (H175)\rLAVENDER/GOLD \r \r>LIGHT\rBROCADE DRESS\rW/ PEPLUM SLEEVE\rAND RHINESTON\rBROOCH ",
+   "bbox": [
+    150,
+    2803,
+    718,
+    3475
+   ]
+  },
+  {
+   "layer": "5075  SIZE: 4-24 COLOR: IVORY/GOLD (H188) BLACK/GOLD   >3PC FIN",
+   "text": "5075\r\rSIZE: 4-24\rCOLOR:\rIVORY/GOLD (H188)\rBLACK/GOLD\r \r>3PC FINE\rMETALLIC YARN\rTWEED JACKET \rW/ TENSIL\rBLOUSE AND SKIRT\r",
+   "bbox": [
+    948,
+    3163,
+    1510,
+    3835
+   ]
+  },
+  {
+   "layer": "5106  SIZE: 4-24 COLOR: BLACK (H164) MAUVE CHAMPAGNE   >FINE BE",
+   "text": "5106\r\rSIZE: 4-24\rCOLOR:\rBLACK (H164)\rMAUVE\rCHAMPAGNE\r \r>FINE BEADED\rLACE DRESS\rW/ REMOVEABLE \rBELT & W/BUTTONS \r\r",
+   "bbox": [
+    1844,
+    2943,
+    2408,
+    3615
+   ]
+  }
+ ]
+}
