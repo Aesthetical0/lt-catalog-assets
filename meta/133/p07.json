@@ -1,0 +1,83 @@
+{
+ "catalog": "133",
+ "page": 7,
+ "file": "133_7.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "OVAL",
+   "layer": "Layer 20",
+   "kind": "pixel",
+   "orig_size": [
+    1235,
+    3223
+   ],
+   "bbox": [
+    783,
+    1769,
+    2018,
+    4992
+   ],
+   "image": "images/133/p07_OVAL.jpg",
+   "out_size": [
+    766,
+    2000
+   ]
+  },
+  {
+   "group": "5180-L",
+   "layer": "Layer 18",
+   "kind": "smartobject",
+   "orig_size": [
+    1037,
+    3816
+   ],
+   "bbox": [
+    294,
+    73,
+    1561,
+    4325
+   ],
+   "image": "images/133/p07_5180-L.jpg",
+   "out_size": [
+    544,
+    2000
+   ]
+  },
+  {
+   "group": "5180-R",
+   "layer": "Layer 19",
+   "kind": "smartobject",
+   "orig_size": [
+    1156,
+    3823
+   ],
+   "bbox": [
+    1553,
+    74,
+    3273,
+    4325
+   ],
+   "image": "images/133/p07_5180-R.jpg",
+   "out_size": [
+    605,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5180  SIZE: 4-24 COLOR: GREEN/MULTI (H172) (B133) PINK/MULTI (H",
+   "text": "5180\r\rSIZE: 4-24\rCOLOR:\rGREEN/MULTI (H172) (B133)\rPINK/MULTI (H945)\rBLUE/MULTI\r\r>2PC ELEGANT\rSHIMMER NOVELTY\rSKIRT SUIT\rW/ RHINESTONE\rBUTTONS",
+   "bbox": [
+    148,
+    2985,
+    931,
+    3713
+   ]
+  }
+ ]
+}

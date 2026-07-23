@@ -1,0 +1,113 @@
+{
+ "catalog": "133",
+ "page": 5,
+ "file": "133_5.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "Background",
+   "layer": "图层 4 copy",
+   "kind": "pixel",
+   "orig_size": [
+    2906,
+    3969
+   ],
+   "bbox": [
+    0,
+    0,
+    2906,
+    3969
+   ],
+   "image": "images/133/p05_Background.jpg",
+   "out_size": [
+    1464,
+    2000
+   ]
+  },
+  {
+   "group": "OVAL",
+   "layer": "Layer 19",
+   "kind": "smartobject",
+   "orig_size": [
+    1041,
+    3183
+   ],
+   "bbox": [
+    859,
+    1833,
+    1922,
+    5046
+   ],
+   "image": "images/133/p05_OVAL.jpg",
+   "out_size": [
+    654,
+    2000
+   ]
+  },
+  {
+   "group": "5142",
+   "layer": "Layer 17",
+   "kind": "smartobject",
+   "orig_size": [
+    1034,
+    3686
+   ],
+   "bbox": [
+    35,
+    211,
+    1369,
+    3917
+   ],
+   "image": "images/133/p05_5142.jpg",
+   "out_size": [
+    561,
+    2000
+   ]
+  },
+  {
+   "group": "5185",
+   "layer": "Layer 18",
+   "kind": "smartobject",
+   "orig_size": [
+    1044,
+    3822
+   ],
+   "bbox": [
+    1564,
+    70,
+    2608,
+    3933
+   ],
+   "image": "images/133/p05_5185.jpg",
+   "out_size": [
+    546,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5142  SIZE: 6-24 COLOR: CANARY (H158) WHITE (H169) (B135)  >2PC",
+   "text": "5142\r\rSIZE: 6-24\rCOLOR:\rCANARY (H158)\rWHITE (H169) (B135)\r\r>2PC\rSEQUIN LACE\rSKIRT SUIT\rW/ RHINESTONE\rBUTTONS ",
+   "bbox": [
+    166,
+    3099,
+    737,
+    3771
+   ]
+  },
+  {
+   "layer": "5185  SIZE: 4-24 COLOR: PURPLE/MULTI  GOLD/MULTI (H173)   >2PC ",
+   "text": "5185\r\rSIZE: 4-24\rCOLOR:\rPURPLE/MULTI \rGOLD/MULTI (H173) \r\r>2PC\rFINE LIGHT\rSHIMMER TWEED\rSKIRT SUIT\rW/ RHINESTONE\rBUTTONS ",
+   "bbox": [
+    2202,
+    3009,
+    2751,
+    3737
+   ]
+  }
+ ]
+}

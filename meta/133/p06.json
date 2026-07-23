@@ -1,0 +1,113 @@
+{
+ "catalog": "133",
+ "page": 6,
+ "file": "133_6.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "background",
+   "layer": "图层 6",
+   "kind": "pixel",
+   "orig_size": [
+    2906,
+    3969
+   ],
+   "bbox": [
+    0,
+    0,
+    2906,
+    3969
+   ],
+   "image": "images/133/p06_background.jpg",
+   "out_size": [
+    1464,
+    2000
+   ]
+  },
+  {
+   "group": "OVAL",
+   "layer": "5028-474___13",
+   "kind": "smartobject",
+   "orig_size": [
+    1103,
+    2953
+   ],
+   "bbox": [
+    854,
+    1791,
+    1957,
+    4744
+   ],
+   "image": "images/133/p06_OVAL.jpg",
+   "out_size": [
+    747,
+    2000
+   ]
+  },
+  {
+   "group": "5028",
+   "layer": "Layer 15",
+   "kind": "smartobject",
+   "orig_size": [
+    1181,
+    3819
+   ],
+   "bbox": [
+    46,
+    72,
+    1831,
+    4309
+   ],
+   "image": "images/133/p06_5028.jpg",
+   "out_size": [
+    618,
+    2000
+   ]
+  },
+  {
+   "group": "5117",
+   "layer": "Layer 16",
+   "kind": "smartobject",
+   "orig_size": [
+    1040,
+    3822
+   ],
+   "bbox": [
+    1442,
+    72,
+    2623,
+    3894
+   ],
+   "image": "images/133/p06_5117.jpg",
+   "out_size": [
+    544,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5028  SIZE: 4-24 COLOR: MAUVE (H475) (B135) MINT (H474) (B132) ",
+   "text": "5028\r\rSIZE: 4-24\rCOLOR:\rMAUVE (H475) (B135)\rMINT (H474) (B132)\r\r>LIGHT \rJACQUARD DRESS\rW/ REMOVABLE\rBELT",
+   "bbox": [
+    92,
+    2935,
+    683,
+    3550
+   ]
+  },
+  {
+   "layer": "5117  SIZE: 6-22 COLOR: LEMON WHITE (H927) MINT   >3PC ELEGANT ",
+   "text": "5117\r\rSIZE: 6-22\rCOLOR:\rLEMON\rWHITE (H927)\rMINT \r\r>3PC\rELEGANT LACE\rSKIRT SUIT\rW /RHINESTONE\rBUTTONS ",
+   "bbox": [
+    2302,
+    3073,
+    2769,
+    3801
+   ]
+  }
+ ]
+}

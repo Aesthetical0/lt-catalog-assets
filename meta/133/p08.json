@@ -1,0 +1,83 @@
+{
+ "catalog": "133",
+ "page": 8,
+ "file": "133_8.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "OVAL",
+   "layer": "Layer 19",
+   "kind": "smartobject",
+   "orig_size": [
+    1216,
+    3498
+   ],
+   "bbox": [
+    830,
+    1849,
+    2046,
+    5347
+   ],
+   "image": "images/133/p08_OVAL.jpg",
+   "out_size": [
+    695,
+    2000
+   ]
+  },
+  {
+   "group": "5131-L",
+   "layer": "Layer 17",
+   "kind": "smartobject",
+   "orig_size": [
+    1161,
+    3816
+   ],
+   "bbox": [
+    275,
+    79,
+    1627,
+    4261
+   ],
+   "image": "images/133/p08_5131-L.jpg",
+   "out_size": [
+    608,
+    2000
+   ]
+  },
+  {
+   "group": "5131-R",
+   "layer": "Layer 18",
+   "kind": "smartobject",
+   "orig_size": [
+    1231,
+    3816
+   ],
+   "bbox": [
+    1545,
+    79,
+    2938,
+    3932
+   ],
+   "image": "images/133/p08_5131-R.jpg",
+   "out_size": [
+    645,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5131  SIZE: 4-24 COLOR: WHITE (H171) PINK (H162) (B135) BLUE (H",
+   "text": "5131\r\rSIZE: 4-24\rCOLOR:\rWHITE (H171)\rPINK (H162) (B135)\rBLUE (H475) \r\r>3PC\rLIGHT JACQUARD\rSKIRT SUIT\rW/ RHINESTONE\rCLOSURE\r& BROOCH ",
+   "bbox": [
+    131,
+    2846,
+    651,
+    3630
+   ]
+  }
+ ]
+}
