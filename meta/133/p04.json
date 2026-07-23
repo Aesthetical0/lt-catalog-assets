@@ -1,0 +1,43 @@
+{
+ "catalog": "133",
+ "page": 4,
+ "file": "133_4.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "Group 4",
+   "layer": "Layer 16",
+   "kind": "smartobject",
+   "orig_size": [
+    1250,
+    3683
+   ],
+   "bbox": [
+    94,
+    73,
+    2834,
+    4650
+   ],
+   "image": "images/133/p04_Group_4.jpg",
+   "out_size": [
+    679,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5186  SIZE: 4-24 COLOR: SKY BLUE  BLACK (H173) GOLD (H173)  >2P",
+   "text": "5186\r\rSIZE: 4-24\rCOLOR:\rSKY BLUE \rBLACK (H173)\rGOLD (H173)\r\r>2PC LIGHT\rSEQUIN LACE\rSKIRT SUIT\rW/ ZIPPER\rFRONT JACKET ",
+   "bbox": [
+    1274,
+    413,
+    1713,
+    1141
+   ]
+  }
+ ]
+}

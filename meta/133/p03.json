@@ -1,0 +1,103 @@
+{
+ "catalog": "133",
+ "page": 3,
+ "file": "133_3.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "Background",
+   "layer": "图层 2",
+   "kind": "pixel",
+   "orig_size": [
+    2906,
+    3969
+   ],
+   "bbox": [
+    0,
+    0,
+    2906,
+    3969
+   ],
+   "image": "images/133/p03_Background.jpg",
+   "out_size": [
+    1464,
+    2000
+   ]
+  },
+  {
+   "group": "OVAL",
+   "layer": "Layer 18",
+   "kind": "smartobject",
+   "orig_size": [
+    1274,
+    3053
+   ],
+   "bbox": [
+    837,
+    1795,
+    2111,
+    4848
+   ],
+   "image": "images/133/p03_OVAL.jpg",
+   "out_size": [
+    835,
+    2000
+   ]
+  },
+  {
+   "group": "5133-L",
+   "layer": "Layer 16",
+   "kind": "smartobject",
+   "orig_size": [
+    1008,
+    3825
+   ],
+   "bbox": [
+    259,
+    72,
+    1355,
+    3933
+   ],
+   "image": "images/133/p03_5133-L.jpg",
+   "out_size": [
+    527,
+    2000
+   ]
+  },
+  {
+   "group": "5133-R",
+   "layer": "Layer 17",
+   "kind": "smartobject",
+   "orig_size": [
+    1141,
+    3822
+   ],
+   "bbox": [
+    1595,
+    72,
+    2736,
+    3894
+   ],
+   "image": "images/133/p03_5133-R.jpg",
+   "out_size": [
+    597,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5133  SIZE: 4-24 COLOR: YELLOW (H397) ORANGE (H553) WHITE (H388",
+   "text": "5133\r\rSIZE: 4-24\rCOLOR:\rYELLOW (H397)\rORANGE (H553)\rWHITE (H388)\rGREEN\rLAVENDER\r\r>3PC PICQUE\rSKIRT SUIT\rW/ RHINESTONE\rBUTTON\r",
+   "bbox": [
+    1227,
+    230,
+    1694,
+    1014
+   ]
+  }
+ ]
+}

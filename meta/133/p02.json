@@ -1,0 +1,93 @@
+{
+ "catalog": "133",
+ "page": 2,
+ "file": "133_2.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "OVAL",
+   "layer": "Layer 16",
+   "kind": "smartobject",
+   "orig_size": [
+    1175,
+    3139
+   ],
+   "bbox": [
+    899,
+    1833,
+    2074,
+    4972
+   ],
+   "image": "images/133/p02_OVAL.jpg",
+   "out_size": [
+    749,
+    2000
+   ]
+  },
+  {
+   "group": "5181",
+   "layer": "Layer 13",
+   "kind": "smartobject",
+   "orig_size": [
+    1111,
+    3721
+   ],
+   "bbox": [
+    282,
+    170,
+    1408,
+    3950
+   ],
+   "image": "images/133/p02_5181.jpg",
+   "out_size": [
+    597,
+    2000
+   ]
+  },
+  {
+   "group": "5154",
+   "layer": "Layer 15",
+   "kind": "smartobject",
+   "orig_size": [
+    867,
+    3817
+   ],
+   "bbox": [
+    1630,
+    72,
+    2696,
+    3950
+   ],
+   "image": "images/133/p02_5154.jpg",
+   "out_size": [
+    454,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5181  SIZE: 4-24 LAVENDER ICE GREEN (H468)                     ",
+   "text": "5181\r\rSIZE: 4-24\rLAVENDER\rICE GREEN (H468)                                                 \rWHITE\r\r>3PC\rSILKY TWILL\rBEADED EMBROIDERY\rLACE SKIRT SUIT\rW/RHINESTONE\rCLOSURE & BROOCH \r",
+   "bbox": [
+    156,
+    2885,
+    804,
+    3613
+   ]
+  },
+  {
+   "layer": "5154  SIZE: 4-24 COLOR: SILVER (H175) GOLD (H168)   >3PC LUREX ",
+   "text": "5154\r\rSIZE: 4-24\rCOLOR:\rSILVER (H175)\rGOLD (H168) \r\r>3PC\rLUREX TWEED\rSKIRT SUIT\rW/ RHINESTONE\rCLOSURE\r& BROOCH",
+   "bbox": [
+    2369,
+    3054,
+    2835,
+    3782
+   ]
+  }
+ ]
+}

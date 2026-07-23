@@ -1,0 +1,103 @@
+{
+ "catalog": "133",
+ "page": 1,
+ "file": "133_1.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "Group 1",
+   "layer": "Layer 3",
+   "kind": "pixel",
+   "orig_size": [
+    2906,
+    3969
+   ],
+   "bbox": [
+    0,
+    0,
+    2906,
+    3969
+   ],
+   "image": "images/133/p01_Group_1.jpg",
+   "out_size": [
+    1464,
+    2000
+   ]
+  },
+  {
+   "group": "Company Logo",
+   "layer": "图层 8",
+   "kind": "pixel",
+   "orig_size": [
+    500,
+    3816
+   ],
+   "bbox": [
+    2294,
+    74,
+    2794,
+    3890
+   ],
+   "image": "images/133/p01_Company_Logo.jpg",
+   "out_size": [
+    262,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5182 (H132)  DETAILS ON PAGE 9 ",
+   "text": "5182 (H132) \rDETAILS ON\rPAGE 9\r",
+   "bbox": [
+    329,
+    3615,
+    669,
+    3776
+   ]
+  },
+  {
+   "layer": "2 0 2 6",
+   "text": "2 0 2 6",
+   "bbox": [
+    221,
+    589,
+    859,
+    716
+   ]
+  },
+  {
+   "layer": "CATALOG CXXXIII #133",
+   "text": "CATALOG\rCXXXIII #133",
+   "bbox": [
+    124,
+    775,
+    950,
+    927
+   ]
+  },
+  {
+   "layer": "CATALOG CXXXIII #133",
+   "text": "CATALOG\rCXXXIII #133",
+   "bbox": [
+    124,
+    776,
+    949,
+    928
+   ]
+  },
+  {
+   "layer": "SPRING & SUMMER",
+   "text": "SPRING & SUMMER",
+   "bbox": [
+    163,
+    475,
+    912,
+    526
+   ]
+  }
+ ]
+}
