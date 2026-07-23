@@ -1,0 +1,93 @@
+{
+ "catalog": "134",
+ "page": 5,
+ "file": "134_5.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "OVAL",
+   "layer": "Layer 20",
+   "kind": "smartobject",
+   "orig_size": [
+    1312,
+    3015
+   ],
+   "bbox": [
+    731,
+    1833,
+    2043,
+    4850
+   ],
+   "image": "images/134/p05_OVAL.jpg",
+   "out_size": [
+    870,
+    2000
+   ]
+  },
+  {
+   "group": "Left Model",
+   "layer": "Layer 18",
+   "kind": "smartobject",
+   "orig_size": [
+    1054,
+    3827
+   ],
+   "bbox": [
+    90,
+    70,
+    1290,
+    3897
+   ],
+   "image": "images/134/p05_Left_Model.jpg",
+   "out_size": [
+    551,
+    2000
+   ]
+  },
+  {
+   "group": "Right Model",
+   "layer": "Layer 19",
+   "kind": "smartobject",
+   "orig_size": [
+    881,
+    3825
+   ],
+   "bbox": [
+    1477,
+    71,
+    2789,
+    3933
+   ],
+   "image": "images/134/p05_Right_Model.jpg",
+   "out_size": [
+    461,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5170  SIZE: S/M, L/XL, 2XL/3XL COLOR: MULTI (H627)  >FINE PLEAT",
+   "text": "5170\r\rSIZE: S/M, L/XL, 2XL/3XL\rCOLOR:\rMULTI (H627)\r\r>FINE PLEATED\rMAXI DRESS\rW/ REMOVEABLE BELT ",
+   "bbox": [
+    154,
+    2953,
+    826,
+    3456
+   ]
+  },
+  {
+   "layer": "5114  SIZE: 8-20 COLOR: WHITE (H130) HOT PINK (H121)  >FINE EYE",
+   "text": "5114\r\rSIZE: 8-20\rCOLOR:\rWHITE (H130)\rHOT PINK (H121)\r\r>FINE\rEYELET DRESS\rW/ REMOVEABLE\rBELT",
+   "bbox": [
+    2255,
+    3009,
+    2741,
+    3624
+   ]
+  }
+ ]
+}

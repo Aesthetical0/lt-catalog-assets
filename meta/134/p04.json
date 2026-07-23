@@ -1,0 +1,93 @@
+{
+ "catalog": "134",
+ "page": 4,
+ "file": "134_4.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "OVAL",
+   "layer": "Layer 12",
+   "kind": "smartobject",
+   "orig_size": [
+    1329,
+    2989
+   ],
+   "bbox": [
+    726,
+    1796,
+    2055,
+    4785
+   ],
+   "image": "images/134/p04_OVAL.jpg",
+   "out_size": [
+    889,
+    2000
+   ]
+  },
+  {
+   "group": "Left Model",
+   "layer": "Layer 10",
+   "kind": "smartobject",
+   "orig_size": [
+    1286,
+    3819
+   ],
+   "bbox": [
+    67,
+    72,
+    1362,
+    3911
+   ],
+   "image": "images/134/p04_Left_Model.jpg",
+   "out_size": [
+    673,
+    2000
+   ]
+  },
+  {
+   "group": "Right Model",
+   "layer": "Layer 11",
+   "kind": "smartobject",
+   "orig_size": [
+    1136,
+    3817
+   ],
+   "bbox": [
+    1587,
+    73,
+    2899,
+    3890
+   ],
+   "image": "images/134/p04_Right_Model.jpg",
+   "out_size": [
+    595,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5175  SIZE: S/M, L/XL, 2XL/3XL COLOR: BLACK/MULTI (H137)  >2PC ",
+   "text": "5175\r\rSIZE: S/M, L/XL, 2XL/3XL\rCOLOR:\rBLACK/MULTI (H137)\r\r>2PC\rFINE PLEATED\rBLOUSE\r& SKIRT ",
+   "bbox": [
+    151,
+    3083,
+    822,
+    3642
+   ]
+  },
+  {
+   "layer": "5113  SIZE: 8-20 COLOR: WHITE  YELLOW (H211) LAVENDER (H130)  >",
+   "text": "5113\r\rSIZE: 8-20\rCOLOR:\rWHITE \rYELLOW (H211)\rLAVENDER (H130)\r\r>FINE\rLIGHT CHIFFON\rSEQUIN DRESS ",
+   "bbox": [
+    2243,
+    2938,
+    2750,
+    3556
+   ]
+  }
+ ]
+}

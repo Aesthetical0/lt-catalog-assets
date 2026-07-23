@@ -1,0 +1,93 @@
+{
+ "catalog": "134",
+ "page": 3,
+ "file": "134_3.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "OVAL",
+   "layer": "Layer 16",
+   "kind": "smartobject",
+   "orig_size": [
+    1412,
+    3059
+   ],
+   "bbox": [
+    757,
+    1794,
+    2169,
+    4853
+   ],
+   "image": "images/134/p03_OVAL.jpg",
+   "out_size": [
+    923,
+    2000
+   ]
+  },
+  {
+   "group": "Left Model",
+   "layer": "Layer 14",
+   "kind": "smartobject",
+   "orig_size": [
+    1347,
+    3823
+   ],
+   "bbox": [
+    112,
+    73,
+    1553,
+    3918
+   ],
+   "image": "images/134/p03_Left_Model.jpg",
+   "out_size": [
+    705,
+    2000
+   ]
+  },
+  {
+   "group": "Right Model",
+   "layer": "Layer 15",
+   "kind": "smartobject",
+   "orig_size": [
+    1007,
+    3822
+   ],
+   "bbox": [
+    1603,
+    74,
+    2747,
+    3896
+   ],
+   "image": "images/134/p03_Right_Model.jpg",
+   "out_size": [
+    527,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "4990  SIZE: 4-20 COLOR: WHITE  LAVENDER (H130)  >FINE EYELET DR",
+   "text": "4990\r\rSIZE: 4-20\rCOLOR:\rWHITE \rLAVENDER (H130)\r\r>FINE\rEYELET DRESS\rW/ BISHOP SLEEVES\rAND REMOVABLE BELT",
+   "bbox": [
+    119,
+    3118,
+    783,
+    3733
+   ]
+  },
+  {
+   "layer": "5091  SIZE: S/M, L/XL, 2XL/3XL COLOR: PINK (H152) NAVY (H130) I",
+   "text": "5091\r\rSIZE: S/M, L/XL, 2XL/3XL\rCOLOR:\rPINK (H152)\rNAVY (H130)\rIVORY \rMOCHA \r\r>FOIL\rMETALLIC PLEATED\rMAXI DRESS",
+   "bbox": [
+    2077,
+    3115,
+    2748,
+    3786
+   ]
+  }
+ ]
+}

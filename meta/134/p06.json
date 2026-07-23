@@ -1,0 +1,93 @@
+{
+ "catalog": "134",
+ "page": 6,
+ "file": "134_6.psd",
+ "canvas": [
+  2906,
+  3969
+ ],
+ "groups": [
+  {
+   "group": "OVAL",
+   "layer": "Layer 17",
+   "kind": "smartobject",
+   "orig_size": [
+    1301,
+    3045
+   ],
+   "bbox": [
+    776,
+    1787,
+    2077,
+    4832
+   ],
+   "image": "images/134/p06_OVAL.jpg",
+   "out_size": [
+    855,
+    2000
+   ]
+  },
+  {
+   "group": "Left Model",
+   "layer": "Layer 15",
+   "kind": "smartobject",
+   "orig_size": [
+    1127,
+    3820
+   ],
+   "bbox": [
+    29,
+    73,
+    1479,
+    4315
+   ],
+   "image": "images/134/p06_Left_Model.jpg",
+   "out_size": [
+    590,
+    2000
+   ]
+  },
+  {
+   "group": "Right Model",
+   "layer": "Layer 16",
+   "kind": "smartobject",
+   "orig_size": [
+    1319,
+    3818
+   ],
+   "bbox": [
+    1503,
+    73,
+    2822,
+    3932
+   ],
+   "image": "images/134/p06_Right_Model.jpg",
+   "out_size": [
+    691,
+    2000
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "5092  SIZE: S/M, L/XL, 2XL/3XL COLOR: SILVER/GOLD MINT/SILVER (",
+   "text": "5092\r\rSIZE: S/M, L/XL, 2XL/3XL\rCOLOR:\rSILVER/GOLD\rMINT/SILVER (H809)\rBLACK/SILVER (H478)\r\r>FOIL\rMETALLIC PLEATED\rMAXI DRESS",
+   "bbox": [
+    156,
+    2861,
+    827,
+    3476
+   ]
+  },
+  {
+   "layer": "5169  SIZE: S/M, L/XL, 2XL/3XL COLOR: ORANGE (H938)  >MAXI  PLE",
+   "text": "5169\r\rSIZE: S/M, L/XL, 2XL/3XL\rCOLOR:\rORANGE (H938)\r\r>MAXI \rPLEATED DRESS\rW/ REMOVEABE BELT",
+   "bbox": [
+    1854,
+    3250,
+    2526,
+    3752
+   ]
+  }
+ ]
+}
