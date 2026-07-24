@@ -1,0 +1,237 @@
+{
+ "catalog": "134",
+ "page": 26,
+ "canvas": [
+  2906,
+  3969
+ ],
+ "layers": [
+  {
+   "layer": "Layer 16",
+   "kind": "smartobject",
+   "bbox": [
+    98,
+    115,
+    967,
+    1317
+   ],
+   "image": "images/134/p26_g_01_Layer_16.jpg",
+   "out_size": [
+    869,
+    1202
+   ]
+  },
+  {
+   "layer": "Layer 16 copy 6",
+   "kind": "smartobject",
+   "bbox": [
+    1018,
+    115,
+    1887,
+    1317
+   ],
+   "image": "images/134/p26_g_02_Layer_16_copy_6.jpg",
+   "out_size": [
+    869,
+    1202
+   ]
+  },
+  {
+   "layer": "Layer 16 copy 7",
+   "kind": "smartobject",
+   "bbox": [
+    1938,
+    115,
+    2807,
+    1317
+   ],
+   "image": "images/134/p26_g_03_Layer_16_copy_7.jpg",
+   "out_size": [
+    869,
+    1202
+   ]
+  },
+  {
+   "layer": "Layer 16 copy 8",
+   "kind": "smartobject",
+   "bbox": [
+    98,
+    1368,
+    967,
+    2569
+   ],
+   "image": "images/134/p26_g_04_Layer_16_copy_8.jpg",
+   "out_size": [
+    869,
+    1201
+   ]
+  },
+  {
+   "layer": "Layer 16 copy 9",
+   "kind": "smartobject",
+   "bbox": [
+    1018,
+    1368,
+    1887,
+    2569
+   ],
+   "image": "images/134/p26_g_05_Layer_16_copy_9.jpg",
+   "out_size": [
+    869,
+    1201
+   ]
+  },
+  {
+   "layer": "Layer 16 copy 10",
+   "kind": "smartobject",
+   "bbox": [
+    1938,
+    1368,
+    2807,
+    2569
+   ],
+   "image": "images/134/p26_g_06_Layer_16_copy_10.jpg",
+   "out_size": [
+    869,
+    1201
+   ]
+  },
+  {
+   "layer": "Layer 16 copy 11",
+   "kind": "smartobject",
+   "bbox": [
+    98,
+    2649,
+    967,
+    3850
+   ],
+   "image": "images/134/p26_g_07_Layer_16_copy_11.jpg",
+   "out_size": [
+    869,
+    1201
+   ]
+  },
+  {
+   "layer": "Layer 16 copy 12",
+   "kind": "smartobject",
+   "bbox": [
+    1018,
+    2649,
+    1887,
+    3850
+   ],
+   "image": "images/134/p26_g_08_Layer_16_copy_12.jpg",
+   "out_size": [
+    869,
+    1201
+   ]
+  },
+  {
+   "layer": "Layer 16 copy 13",
+   "kind": "smartobject",
+   "bbox": [
+    1938,
+    2649,
+    2807,
+    3850
+   ],
+   "image": "images/134/p26_g_09_Layer_16_copy_13.jpg",
+   "out_size": [
+    869,
+    1201
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "S101  SIZE: S-3X COLOR: PINK  WHITE  NAVY   >2PC COTTON BLEND  ",
+   "text": "S101\r\rSIZE: S-3X\rCOLOR:\rPINK \rWHITE \rNAVY \r\r>2PC\rCOTTON\rBLEND \rBLOUSE\rW/ LACE\rTRIMMING ",
+   "bbox": [
+    113,
+    130,
+    331,
+    718
+   ]
+  },
+  {
+   "layer": "S102  SIZE: S-3X COLOR: LAVENDER  WHITE  BLACK   >2PC ORGANZA E",
+   "text": "S102\r\rSIZE: S-3X\rCOLOR:\rLAVENDER \rWHITE \rBLACK \r\r>2PC\rORGANZA\rEMBROIDERY\rBLOUSE\rW/ RHINESTONE\rTRIMMING ",
+   "bbox": [
+    1030,
+    130,
+    1380,
+    718
+   ]
+  },
+  {
+   "layer": "S103  SIZE: S-3X COLOR: TURQUOISE  PINK  WHITE   >2PC COTTON BL",
+   "text": "S103\r\rSIZE: S-3X\rCOLOR:\rTURQUOISE \rPINK \rWHITE \r\r>2PC\rCOTTON\rBLEND\rBLOUSE\rAND\rLACE\rTRIMMING ",
+   "bbox": [
+    1950,
+    130,
+    2208,
+    761
+   ]
+  },
+  {
+   "layer": "S104  SIZE: S-3X COLOR: BLACK  WHITE   >2PC COTTON BLEND BLOUSE",
+   "text": "S104\r\rSIZE: S-3X\rCOLOR:\rBLACK \rWHITE \r\r>2PC\rCOTTON\rBLEND\rBLOUSE\rW/ LACE\rTRIMMING ",
+   "bbox": [
+    113,
+    1382,
+    331,
+    1928
+   ]
+  },
+  {
+   "layer": "S105  SIZE: S-3X COLOR: BURNT ORANGE  WHITE  NAVY  >2PC COTTON ",
+   "text": "S105\r\rSIZE: S-3X\rCOLOR:\rBURNT ORANGE \rWHITE \rNAVY\r\r>2PC\rCOTTON\rBLEND\rBLOUSE\rW/ LACE\rEMBROIDERY\rTRIMMING  ",
+   "bbox": [
+    1030,
+    1382,
+    1380,
+    2013
+   ]
+  },
+  {
+   "layer": "S106   SIZE: S-3X COLOR: NAVY  WHITE   >2PC COTTON BLEND BLOUSE",
+   "text": "S106\t\r\rSIZE: S-3X\rCOLOR:\rNAVY \rWHITE \r\r>2PC\rCOTTON\rBLEND\rBLOUSE\rW/ SHOULDER\rSEQUIN\rTRIMMING",
+   "bbox": [
+    1951,
+    1382,
+    2258,
+    1970
+   ]
+  },
+  {
+   "layer": "S107  SIZE: S-3X COLOR: NAVY/IVORY  WHITE/BLACK  >COTTON BLEND ",
+   "text": "S107\r\rSIZE: S-3X\rCOLOR:\rNAVY/IVORY \rWHITE/BLACK\r\r>COTTON\rBLEND\rBLOUSE\rCAP\rSLEEVE\rW/ CONTRAST\rLACE\rTRIMMING ",
+   "bbox": [
+    113,
+    2662,
+    418,
+    3293
+   ]
+  },
+  {
+   "layer": "S108  SIZE: S-3X COLOR: BLACK  WHITE   >COTTON BLEND BLOUSE W/ ",
+   "text": "S108\r\rSIZE: S-3X\rCOLOR:\rBLACK \rWHITE \r\r>COTTON\rBLEND BLOUSE\rW/ 3D FRONT\rFLOWER DESIGN ",
+   "bbox": [
+    1030,
+    2662,
+    1393,
+    3124
+   ]
+  },
+  {
+   "layer": "S109  SIZE: S-3X COLOR: BLACK  WHITE  YELLOW    >2PC ORGANZA EM",
+   "text": "S109\r\rSIZE: S-3X\rCOLOR:\rBLACK \rWHITE \rYELLOW \r \r>2PC\rORGANZA\rEMBROIDERY\rBLOUSE\rW/ LACE\rCOLLAR\rAND\rRHINESTONE\rTRIMMING \r",
+   "bbox": [
+    1950,
+    2662,
+    2244,
+    3377
+   ]
+  }
+ ]
+}

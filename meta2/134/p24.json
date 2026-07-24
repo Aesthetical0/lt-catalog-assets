@@ -1,0 +1,237 @@
+{
+ "catalog": "134",
+ "page": 24,
+ "canvas": [
+  2906,
+  3969
+ ],
+ "layers": [
+  {
+   "layer": "Layer 16 copy 13",
+   "kind": "smartobject",
+   "bbox": [
+    98,
+    115,
+    967,
+    1316
+   ],
+   "image": "images/134/p24_g_01_Layer_16_copy_13.jpg",
+   "out_size": [
+    869,
+    1201
+   ]
+  },
+  {
+   "layer": "Layer 16",
+   "kind": "smartobject",
+   "bbox": [
+    1019,
+    115,
+    1888,
+    1317
+   ],
+   "image": "images/134/p24_g_02_Layer_16.jpg",
+   "out_size": [
+    869,
+    1202
+   ]
+  },
+  {
+   "layer": "Layer 16 copy 6",
+   "kind": "smartobject",
+   "bbox": [
+    1938,
+    115,
+    2807,
+    1317
+   ],
+   "image": "images/134/p24_g_03_Layer_16_copy_6.jpg",
+   "out_size": [
+    869,
+    1202
+   ]
+  },
+  {
+   "layer": "Layer 16 copy 7",
+   "kind": "smartobject",
+   "bbox": [
+    98,
+    1367,
+    967,
+    2569
+   ],
+   "image": "images/134/p24_g_04_Layer_16_copy_7.jpg",
+   "out_size": [
+    869,
+    1202
+   ]
+  },
+  {
+   "layer": "Layer 16 copy 8",
+   "kind": "smartobject",
+   "bbox": [
+    1019,
+    1368,
+    1888,
+    2569
+   ],
+   "image": "images/134/p24_g_05_Layer_16_copy_8.jpg",
+   "out_size": [
+    869,
+    1201
+   ]
+  },
+  {
+   "layer": "Layer 16 copy 9",
+   "kind": "smartobject",
+   "bbox": [
+    1938,
+    1368,
+    2807,
+    2569
+   ],
+   "image": "images/134/p24_g_06_Layer_16_copy_9.jpg",
+   "out_size": [
+    869,
+    1201
+   ]
+  },
+  {
+   "layer": "Layer 16 copy 10",
+   "kind": "smartobject",
+   "bbox": [
+    98,
+    2649,
+    967,
+    3850
+   ],
+   "image": "images/134/p24_g_07_Layer_16_copy_10.jpg",
+   "out_size": [
+    869,
+    1201
+   ]
+  },
+  {
+   "layer": "Layer 16 copy 12",
+   "kind": "smartobject",
+   "bbox": [
+    1018,
+    2649,
+    1887,
+    3850
+   ],
+   "image": "images/134/p24_g_08_Layer_16_copy_12.jpg",
+   "out_size": [
+    869,
+    1201
+   ]
+  },
+  {
+   "layer": "Layer 16 copy 11",
+   "kind": "smartobject",
+   "bbox": [
+    1936,
+    2649,
+    2805,
+    3850
+   ],
+   "image": "images/134/p24_g_09_Layer_16_copy_11.jpg",
+   "out_size": [
+    869,
+    1201
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "layer": "S122  SIZE: S-2X COLOR: FUCHSIA LAVENDER  >FINE CHIFFON BLOUSE ",
+   "text": "S122\r\rSIZE: S-2X\rCOLOR:\rFUCHSIA\rLAVENDER\r\r>FINE\rCHIFFON\rBLOUSE\rW/ RUFFLE\rTRIM",
+   "bbox": [
+    113,
+    130,
+    348,
+    634
+   ]
+  },
+  {
+   "layer": "S122  SIZE: S-2X COLOR: FUCHSIA LAVENDER  >FINE CHIFFON BLOUSE ",
+   "text": "S122\r\rSIZE: S-2X\rCOLOR:\rFUCHSIA\rLAVENDER\r\r>FINE\rCHIFFON\rBLOUSE\rW/ RUFFLE\rTRIM",
+   "bbox": [
+    1030,
+    130,
+    1265,
+    634
+   ]
+  },
+  {
+   "layer": "S123  SIZE: S-2X COLOR: PINK (H132) CANARY WHITE  >2PC POLY/ORG",
+   "text": "S123\r\rSIZE: S-2X\rCOLOR:\rPINK (H132)\rCANARY\rWHITE\r\r>2PC\u0003POLY/ORGANZA\rBEADED BLOUSE",
+   "bbox": [
+    1951,
+    130,
+    2318,
+    592
+   ]
+  },
+  {
+   "layer": "S123  SIZE: S-2X  COLOR: PINK WHITE WHITE  >2PC POLY/ORGANZA BE",
+   "text": "S123\r\rSIZE: S-2X \rCOLOR:\rPINK\rWHITE\rWHITE\r\r>2PC\rPOLY/ORGANZA\rBEADED BLOUSE\r\r",
+   "bbox": [
+    113,
+    1382,
+    480,
+    1844
+   ]
+  },
+  {
+   "layer": "S124  SIZE: S-2X COLOR: BLUE/MULTI YELLOW/MULTI FUCHSIA/MULTI  ",
+   "text": "S124\r\rSIZE: S-2X\rCOLOR:\rBLUE/MULTI\rYELLOW/MULTI\rFUCHSIA/MULTI \r\r>FINE\rPOLY SILKY\rFEEL BLOUSE\rW/ REMOVEABLE\rBELT",
+   "bbox": [
+    1029,
+    1382,
+    1394,
+    1928
+   ]
+  },
+  {
+   "layer": "S124  SIZE: S-2X COLOR: BLUE/MULTI YELLOW/MULTI FUCHSIA/MULTI  ",
+   "text": "S124\r\rSIZE: S-2X\rCOLOR:\rBLUE/MULTI\rYELLOW/MULTI\rFUCHSIA/MULTI \r\r>FINE\rPOLY SILKY\rFEEL BLOUSE\rW/ REMOVEABLE\rBELT",
+   "bbox": [
+    1950,
+    1382,
+    2315,
+    1928
+   ]
+  },
+  {
+   "layer": "S124  SIZE: S-2X COLOR: BLUE/MULTI YELLOW/MULTI FUCHSIA/MULTI  ",
+   "text": "S124\r\rSIZE: S-2X\rCOLOR:\rBLUE/MULTI\rYELLOW/MULTI\rFUCHSIA/MULTI \r\r>FINE\rPOLY SILKY\rFEEL BLOUSE\rW/ REMOVEABLE\rBELT",
+   "bbox": [
+    112,
+    2662,
+    477,
+    3208
+   ]
+  },
+  {
+   "layer": "S127  SIZE: S-2X COLOR: IVORY(H152) FUCHSIA  >2 PC POLY/ORGANZA",
+   "text": "S127\r\rSIZE: S-2X\rCOLOR:\rIVORY(H152)\rFUCHSIA\r\r>2 PC\rPOLY/ORGANZA\rBEADED BLOUSE",
+   "bbox": [
+    1031,
+    2662,
+    1397,
+    3082
+   ]
+  },
+  {
+   "layer": "S128  SIZE: S-2X COLOR: BLACK IVORY/MULTI  >2 PC POLY/ORGANZA B",
+   "text": "S128\r\rSIZE: S-2X\rCOLOR:\rBLACK\rIVORY/MULTI\r\r>2 PC\rPOLY/ORGANZA\rBEADED BLOUSE",
+   "bbox": [
+    1952,
+    2662,
+    2318,
+    3082
+   ]
+  }
+ ]
+}
